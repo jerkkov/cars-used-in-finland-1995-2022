@@ -1,18 +1,19 @@
 # -*- coding: utf-8 -*-
-
-from bokeh.plotting import figure, show
+from bokeh.layouts import column
+from bokeh.plotting import ColumnDataSource, figure, show
+from bokeh.models import AutocompleteInput, Div, CustomJS, MultiChoice, CustomJSFilter, CDSView
 from enum import Enum
 import json
 
 class PowerSource(str, Enum):
-    GAS = 'Gas'
-    ELECTRIC = 'Electric'
-    GASOLINE = 'Gasoline'
-    HYDROGEN = 'Hydrogen'
-    DIESEL = 'Diesel'
-    OVERALL = 'Overall'
+    GAS = "Gas"
+    ELECTRIC = "Electric"
+    GASOLINE = "Gasoline"
+    HYDROGEN = "Hydrogen"
+    DIESEL = "Diesel"
+    OVERALL = "Overall"
 
-f = open('cars-in-finland-1995-2022.json', encoding='utf-8')
+f = open("cars-in-finland-1995-2022.json", encoding="utf-8")
 data = json.load(f)
 
 def get_areas(list: list):
@@ -25,7 +26,7 @@ def get_years(list: list):
     years = []
     for i in list.keys():
         dict_key = str(i)
-        year = dict_key.split(' ')[0]
+        year = dict_key.split(" ")[0]
         if years.count(year) == 0:
             years.append(year)
     return years
@@ -34,39 +35,107 @@ def get_power_source_values(list: list, power_source_name: PowerSource):
     power_source_values = []
     for x, y in list.items():
         dict_key = str(x)
-        power_source = dict_key.split(' ')[1]
+        power_source = dict_key.split(" ")[1]
         if power_source == power_source_name:
             power_source_values.append(y)
     return power_source_values
 
-print(get_areas(data))
-# for i in data:
-#     print(data[i], ':')
-#     for x in data[i]:
-#      print(data[x], ' ',  data[i][x])
+
+
+selected_area = 'MA1 MANNER0SUOMI'
+
+def areas_handler(attr, old, new):
+    print("Previous label: " + old)
+    print("Updated label: " + new)
+    selected_area = attr
+
 # ALL -> MA1 MANNER0SUOMI
-area = 'Kajaani'
-years = get_years(data[area])
-gasoline = get_power_source_values(data[area], PowerSource.GASOLINE)
-gas = get_power_source_values(data[area], PowerSource.GAS)
-electric = get_power_source_values(data[area], PowerSource.ELECTRIC)
-hydrogen = get_power_source_values(data[area], PowerSource.HYDROGEN)
-diesel = get_power_source_values(data[area], PowerSource.DIESEL)
-overall = get_power_source_values(data[area], PowerSource.OVERALL)
+areas = get_areas(data)
 
-# print(gas)
+# selected_area = auto_complete_input.value
+years = get_years(data[selected_area])
+gasoline = get_power_source_values(data[selected_area], PowerSource.GASOLINE)
+gas = get_power_source_values(data[selected_area], PowerSource.GAS)
+electric = get_power_source_values(data[selected_area], PowerSource.ELECTRIC)
+hydrogen = get_power_source_values(data[selected_area], PowerSource.HYDROGEN)
+diesel = get_power_source_values(data[selected_area], PowerSource.DIESEL)
+overall = get_power_source_values(data[selected_area], PowerSource.OVERALL)
 
-f.close()
-# prepare some data
-x = years
-y = electric
+source = ColumnDataSource(data=dict(x=[2,3], y=[3,2]))
+# view = CDSView(filter=IndexFilter([0, 2, 4]))
+
+# Hover over graph
+TOOLTIPS = [
+    ("index", "$index"),
+    ("(Year,Power Source)", "($x, $y)"),
+]
+
+TOOLS="hover,pan,wheel_zoom,zoom_in,zoom_out,box_zoom"
 
 # create a new plot with a title and axis labels
-p = figure(title="Electric cars in use from 1995 to 2022", x_axis_label='x', y_axis_label='y')
+p = figure(title="Electric cars in use from 1995 to 2022", x_axis_label="Years", y_axis_label="y", tools=TOOLS, tooltips=TOOLTIPS)
 
 # add a line renderer with legend and line thickness to the plot
-p.line(x, y, legend_label="Electric cars", line_width=2)
+
+p.line('x', 'y', source=source, legend_label="Electric cars", line_width=2)
+
+callback = CustomJS(args=dict(source=source, years=years, areas=areas, newData=data), code="""
+  console.log('areas', areas)
+  console.log('areas', areas)
+  
+  const oldArr = source;
+  const area = cb_obj.value;
+  
+  const getPowerSource = (arr, areaName, query) => {
+    const newArr = Object.entries(arr[areaName]);
+    const filtered = newArr.filter((item) => item[0].includes(query));
+    return filtered;
+  };
+    const x = years;
+    console.log('x', x,)
+    const y = getPowerSource(newData, area, "Electric").map(item => item[1]);
+
+    console.log('y', y)
+    source.data = { x, y }
+    console.log('source.data', source.data);
+""")
+
+# custom_filter = CustomJSFilter(code='''
+# const indices = [];
+
+# // iterate through rows of data source and see if each satisfies some constraint
+# for (let i = 0; i < source.get_length(); i++){
+#     if (source.data['some_column'][i] == 'some_value'){
+#         indices.push(true);
+#     } else {
+#         indices.push(false);
+#     }
+# }
+# return indices;
+# ''')
+
+# auto_complete_input.js_on_change("value", CustomJS(code="""
+#     console.log('value', cb_obj.value);
+#     """))
+
+auto_complete_input = AutocompleteInput(title="Enter a city:", completions=areas)
+auto_complete_input.js_on_change('value', callback)
+
+
+# callback = CustomJS(args=dict(source=data), code="""
+#     const inputValue = cb_obj.value
+#     const x = source.data.x
+#     const y = Array.from(x, (x) => Math.pow(x, f))
+#     source.data = { x, y }
+# """)
+
+#Close the data file
+f.close()
+
+# create layout
+layout = column(auto_complete_input, p)
 
 # show the results
-# show(p)
+show(layout)
+
 

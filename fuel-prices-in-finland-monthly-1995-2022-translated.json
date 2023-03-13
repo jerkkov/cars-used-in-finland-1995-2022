@@ -1,0 +1,10083 @@
+
+[
+ {
+   "Month": "1995M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "84.01.00"
+ },
+ {
+   "Month": "1995M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.09.00"
+ },
+ {
+   "Month": "1995M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.07.00"
+ },
+ {
+   "Month": "1995M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.08.00"
+ },
+ {
+   "Month": "1995M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.09"
+ },
+ {
+   "Month": "1995M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.05"
+ },
+ {
+   "Month": "1995M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "83.06.00"
+ },
+ {
+   "Month": "1995M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.01.00"
+ },
+ {
+   "Month": "1995M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.01.00"
+ },
+ {
+   "Month": "1995M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "25.02.00"
+ },
+ {
+   "Month": "1995M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.00"
+ },
+ {
+   "Month": "1995M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.05"
+ },
+ {
+   "Month": "1995M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "83.03.00"
+ },
+ {
+   "Month": "1995M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "61.02.00"
+ },
+ {
+   "Month": "1995M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.04.00"
+ },
+ {
+   "Month": "1995M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.05.00"
+ },
+ {
+   "Month": "1995M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.05"
+ },
+ {
+   "Month": "1995M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.00"
+ },
+ {
+   "Month": "1995M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "81.04.00"
+ },
+ {
+   "Month": "1995M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "59.05.00"
+ },
+ {
+   "Month": "1995M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.01.00"
+ },
+ {
+   "Month": "1995M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.02.00"
+ },
+ {
+   "Month": "1995M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.00"
+ },
+ {
+   "Month": "1995M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.06"
+ },
+ {
+   "Month": "1995M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "82.02.00"
+ },
+ {
+   "Month": "1995M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "58.04.00"
+ },
+ {
+   "Month": "1995M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "23.06"
+ },
+ {
+   "Month": "1995M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "23.07"
+ },
+ {
+   "Month": "1995M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.02"
+ },
+ {
+   "Month": "1995M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.08"
+ },
+ {
+   "Month": "1995M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "81.01.00"
+ },
+ {
+   "Month": "1995M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "58.02.00"
+ },
+ {
+   "Month": "1995M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.01.00"
+ },
+ {
+   "Month": "1995M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.02.00"
+ },
+ {
+   "Month": "1995M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.01"
+ },
+ {
+   "Month": "1995M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.07"
+ },
+ {
+   "Month": "1995M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "81.06.00"
+ },
+ {
+   "Month": "1995M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "58.00.00"
+ },
+ {
+   "Month": "1995M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "22.09"
+ },
+ {
+   "Month": "1995M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "23.00"
+ },
+ {
+   "Month": "1995M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "17.03"
+ },
+ {
+   "Month": "1995M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.02"
+ },
+ {
+   "Month": "1995M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "81.04.00"
+ },
+ {
+   "Month": "1995M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "57.04.00"
+ },
+ {
+   "Month": "1995M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "22.05"
+ },
+ {
+   "Month": "1995M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "22.06"
+ },
+ {
+   "Month": "1995M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "17.01"
+ },
+ {
+   "Month": "1995M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "14.09"
+ },
+ {
+   "Month": "1995M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "79.07.00"
+ },
+ {
+   "Month": "1995M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "58.02.00"
+ },
+ {
+   "Month": "1995M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "23.07"
+ },
+ {
+   "Month": "1995M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "23.08"
+ },
+ {
+   "Month": "1995M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "17.07"
+ },
+ {
+   "Month": "1995M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.05"
+ },
+ {
+   "Month": "1995M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "80.02.00"
+ },
+ {
+   "Month": "1995M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "57.07.00"
+ },
+ {
+   "Month": "1995M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "22.07"
+ },
+ {
+   "Month": "1995M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "22.08"
+ },
+ {
+   "Month": "1995M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "17.08"
+ },
+ {
+   "Month": "1995M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.06"
+ },
+ {
+   "Month": "1995M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "80.04.00"
+ },
+ {
+   "Month": "1995M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "58.07.00"
+ },
+ {
+   "Month": "1995M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "22.04"
+ },
+ {
+   "Month": "1995M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "22.05"
+ },
+ {
+   "Month": "1995M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "17.07"
+ },
+ {
+   "Month": "1995M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.05"
+ },
+ {
+   "Month": "1995M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "80.02.00"
+ },
+ {
+   "Month": "1995M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "60.00.00"
+ },
+ {
+   "Month": "1995M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.01.00"
+ },
+ {
+   "Month": "1995M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.02.00"
+ },
+ {
+   "Month": "1995M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.09"
+ },
+ {
+   "Month": "1995M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.06"
+ },
+ {
+   "Month": "1996M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "90.00.00"
+ },
+ {
+   "Month": "1996M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "60.06.00"
+ },
+ {
+   "Month": "1996M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.02.00"
+ },
+ {
+   "Month": "1996M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "25.03.00"
+ },
+ {
+   "Month": "1996M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.03"
+ },
+ {
+   "Month": "1996M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.09"
+ },
+ {
+   "Month": "1996M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "89.03.00"
+ },
+ {
+   "Month": "1996M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "61.06.00"
+ },
+ {
+   "Month": "1996M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "26.06.00"
+ },
+ {
+   "Month": "1996M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.07.00"
+ },
+ {
+   "Month": "1996M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.00"
+ },
+ {
+   "Month": "1996M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.07"
+ },
+ {
+   "Month": "1996M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "88.08.00"
+ },
+ {
+   "Month": "1996M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.02.00"
+ },
+ {
+   "Month": "1996M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.09.00"
+ },
+ {
+   "Month": "1996M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.00.00"
+ },
+ {
+   "Month": "1996M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.03"
+ },
+ {
+   "Month": "1996M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.09"
+ },
+ {
+   "Month": "1996M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "93.02.00"
+ },
+ {
+   "Month": "1996M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "63.01.00"
+ },
+ {
+   "Month": "1996M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "26.06.00"
+ },
+ {
+   "Month": "1996M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.07.00"
+ },
+ {
+   "Month": "1996M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.02"
+ },
+ {
+   "Month": "1996M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.07"
+ },
+ {
+   "Month": "1996M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "93.00.00"
+ },
+ {
+   "Month": "1996M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.07.00"
+ },
+ {
+   "Month": "1996M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "26.02.00"
+ },
+ {
+   "Month": "1996M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.04.00"
+ },
+ {
+   "Month": "1996M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.06"
+ },
+ {
+   "Month": "1996M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "18.00"
+ },
+ {
+   "Month": "1996M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.05.00"
+ },
+ {
+   "Month": "1996M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.04.00"
+ },
+ {
+   "Month": "1996M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.04.00"
+ },
+ {
+   "Month": "1996M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "25.05.00"
+ },
+ {
+   "Month": "1996M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.02"
+ },
+ {
+   "Month": "1996M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.08"
+ },
+ {
+   "Month": "1996M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "93.07.00"
+ },
+ {
+   "Month": "1996M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.09.00"
+ },
+ {
+   "Month": "1996M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.09.00"
+ },
+ {
+   "Month": "1996M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.00.00"
+ },
+ {
+   "Month": "1996M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.05"
+ },
+ {
+   "Month": "1996M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.01"
+ },
+ {
+   "Month": "1996M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.03.00"
+ },
+ {
+   "Month": "1996M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.02.00"
+ },
+ {
+   "Month": "1996M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.04.00"
+ },
+ {
+   "Month": "1996M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "25.05.00"
+ },
+ {
+   "Month": "1996M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.08"
+ },
+ {
+   "Month": "1996M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.05"
+ },
+ {
+   "Month": "1996M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "90.00.00"
+ },
+ {
+   "Month": "1996M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "63.01.00"
+ },
+ {
+   "Month": "1996M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "27.09.00"
+ },
+ {
+   "Month": "1996M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "28.00.00"
+ },
+ {
+   "Month": "1996M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.07"
+ },
+ {
+   "Month": "1996M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.03"
+ },
+ {
+   "Month": "1996M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.07.00"
+ },
+ {
+   "Month": "1996M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "65.08.00"
+ },
+ {
+   "Month": "1996M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "30.08.00"
+ },
+ {
+   "Month": "1996M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "30.09.00"
+ },
+ {
+   "Month": "1996M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "21.05"
+ },
+ {
+   "Month": "1996M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "18.08"
+ },
+ {
+   "Month": "1996M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "93.09.00"
+ },
+ {
+   "Month": "1996M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "65.06.00"
+ },
+ {
+   "Month": "1996M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "28.08.00"
+ },
+ {
+   "Month": "1996M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "28.09.00"
+ },
+ {
+   "Month": "1996M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.09"
+ },
+ {
+   "Month": "1996M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "18.03"
+ },
+ {
+   "Month": "1996M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "94.05.00"
+ },
+ {
+   "Month": "1996M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "66.06.00"
+ },
+ {
+   "Month": "1996M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "29.06.00"
+ },
+ {
+   "Month": "1996M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "29.07.00"
+ },
+ {
+   "Month": "1996M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "21.09"
+ },
+ {
+   "Month": "1996M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "19.01"
+ },
+ {
+   "Month": "1997M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "93.02.00"
+ },
+ {
+   "Month": "1997M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "65.08.00"
+ },
+ {
+   "Month": "1997M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "33.05.00"
+ },
+ {
+   "Month": "1997M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "33.06.00"
+ },
+ {
+   "Month": "1997M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "22.05"
+ },
+ {
+   "Month": "1997M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "19.07"
+ },
+ {
+   "Month": "1997M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "90.02.00"
+ },
+ {
+   "Month": "1997M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "64.08.00"
+ },
+ {
+   "Month": "1997M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "30.08.00"
+ },
+ {
+   "Month": "1997M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "30.09.00"
+ },
+ {
+   "Month": "1997M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "21.02"
+ },
+ {
+   "Month": "1997M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "18.05"
+ },
+ {
+   "Month": "1997M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.00.00"
+ },
+ {
+   "Month": "1997M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "64.03.00"
+ },
+ {
+   "Month": "1997M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "29.04.00"
+ },
+ {
+   "Month": "1997M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "29.06.00"
+ },
+ {
+   "Month": "1997M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.03"
+ },
+ {
+   "Month": "1997M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.08"
+ },
+ {
+   "Month": "1997M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "91.02.00"
+ },
+ {
+   "Month": "1997M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "63.04.00"
+ },
+ {
+   "Month": "1997M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "29.01.00"
+ },
+ {
+   "Month": "1997M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "29.02.00"
+ },
+ {
+   "Month": "1997M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.06"
+ },
+ {
+   "Month": "1997M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.02"
+ },
+ {
+   "Month": "1997M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.03.00"
+ },
+ {
+   "Month": "1997M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.02.00"
+ },
+ {
+   "Month": "1997M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "29.03.00"
+ },
+ {
+   "Month": "1997M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "29.04.00"
+ },
+ {
+   "Month": "1997M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.04"
+ },
+ {
+   "Month": "1997M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.00"
+ },
+ {
+   "Month": "1997M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.00.00"
+ },
+ {
+   "Month": "1997M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.01.00"
+ },
+ {
+   "Month": "1997M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "28.03.00"
+ },
+ {
+   "Month": "1997M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "28.04.00"
+ },
+ {
+   "Month": "1997M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.02"
+ },
+ {
+   "Month": "1997M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.07"
+ },
+ {
+   "Month": "1997M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "93.02.00"
+ },
+ {
+   "Month": "1997M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.02.00"
+ },
+ {
+   "Month": "1997M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "28.06.00"
+ },
+ {
+   "Month": "1997M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "28.07.00"
+ },
+ {
+   "Month": "1997M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.09"
+ },
+ {
+   "Month": "1997M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.04"
+ },
+ {
+   "Month": "1997M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "96.02.00"
+ },
+ {
+   "Month": "1997M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "64.06.00"
+ },
+ {
+   "Month": "1997M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "29.09.00"
+ },
+ {
+   "Month": "1997M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "30.01.00"
+ },
+ {
+   "Month": "1997M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.08"
+ },
+ {
+   "Month": "1997M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "18.02"
+ },
+ {
+   "Month": "1997M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.07.00"
+ },
+ {
+   "Month": "1997M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "64.01.00"
+ },
+ {
+   "Month": "1997M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "28.09.00"
+ },
+ {
+   "Month": "1997M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "29.01.00"
+ },
+ {
+   "Month": "1997M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.07"
+ },
+ {
+   "Month": "1997M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "18.02"
+ },
+ {
+   "Month": "1997M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "94.00.00"
+ },
+ {
+   "Month": "1997M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "64.01.00"
+ },
+ {
+   "Month": "1997M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "30.03.00"
+ },
+ {
+   "Month": "1997M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "30.04.00"
+ },
+ {
+   "Month": "1997M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "21.00"
+ },
+ {
+   "Month": "1997M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "18.04"
+ },
+ {
+   "Month": "1997M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.00.00"
+ },
+ {
+   "Month": "1997M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "64.06.00"
+ },
+ {
+   "Month": "1997M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "29.03.00"
+ },
+ {
+   "Month": "1997M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "29.04.00"
+ },
+ {
+   "Month": "1997M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "22.02"
+ },
+ {
+   "Month": "1997M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "19.04"
+ },
+ {
+   "Month": "1997M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.08.00"
+ },
+ {
+   "Month": "1997M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "64.09.00"
+ },
+ {
+   "Month": "1997M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "28.03.00"
+ },
+ {
+   "Month": "1997M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "28.04.00"
+ },
+ {
+   "Month": "1997M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.02"
+ },
+ {
+   "Month": "1997M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.07"
+ },
+ {
+   "Month": "1998M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "96.04.00"
+ },
+ {
+   "Month": "1998M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "66.09.00"
+ },
+ {
+   "Month": "1998M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "27.09.00"
+ },
+ {
+   "Month": "1998M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "28.00.00"
+ },
+ {
+   "Month": "1998M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "19.08"
+ },
+ {
+   "Month": "1998M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.03"
+ },
+ {
+   "Month": "1998M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "95.05.00"
+ },
+ {
+   "Month": "1998M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "65.01.00"
+ },
+ {
+   "Month": "1998M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "27.06.00"
+ },
+ {
+   "Month": "1998M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "27.07.00"
+ },
+ {
+   "Month": "1998M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.01"
+ },
+ {
+   "Month": "1998M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.09"
+ },
+ {
+   "Month": "1998M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "95.00.00"
+ },
+ {
+   "Month": "1998M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "65.09.00"
+ },
+ {
+   "Month": "1998M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "26.09.00"
+ },
+ {
+   "Month": "1998M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "27.00.00"
+ },
+ {
+   "Month": "1998M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.00"
+ },
+ {
+   "Month": "1998M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.08"
+ },
+ {
+   "Month": "1998M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "94.09.00"
+ },
+ {
+   "Month": "1998M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "64.09.00"
+ },
+ {
+   "Month": "1998M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "27.04.00"
+ },
+ {
+   "Month": "1998M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "27.05.00"
+ },
+ {
+   "Month": "1998M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.09"
+ },
+ {
+   "Month": "1998M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.05"
+ },
+ {
+   "Month": "1998M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "93.02.00"
+ },
+ {
+   "Month": "1998M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "63.01.00"
+ },
+ {
+   "Month": "1998M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "26.04.00"
+ },
+ {
+   "Month": "1998M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.05.00"
+ },
+ {
+   "Month": "1998M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.05"
+ },
+ {
+   "Month": "1998M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.02"
+ },
+ {
+   "Month": "1998M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "95.02.00"
+ },
+ {
+   "Month": "1998M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "63.01.00"
+ },
+ {
+   "Month": "1998M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.02.00"
+ },
+ {
+   "Month": "1998M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "25.03.00"
+ },
+ {
+   "Month": "1998M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.00"
+ },
+ {
+   "Month": "1998M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.08"
+ },
+ {
+   "Month": "1998M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "95.00.00"
+ },
+ {
+   "Month": "1998M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.09.00"
+ },
+ {
+   "Month": "1998M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.07.00"
+ },
+ {
+   "Month": "1998M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.08.00"
+ },
+ {
+   "Month": "1998M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "17.08"
+ },
+ {
+   "Month": "1998M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.06"
+ },
+ {
+   "Month": "1998M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "94.05.00"
+ },
+ {
+   "Month": "1998M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.09.00"
+ },
+ {
+   "Month": "1998M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.02.00"
+ },
+ {
+   "Month": "1998M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.03.00"
+ },
+ {
+   "Month": "1998M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "16.09"
+ },
+ {
+   "Month": "1998M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "14.08"
+ },
+ {
+   "Month": "1998M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "94.09.00"
+ },
+ {
+   "Month": "1998M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.09.00"
+ },
+ {
+   "Month": "1998M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.09.00"
+ },
+ {
+   "Month": "1998M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.00.00"
+ },
+ {
+   "Month": "1998M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.01"
+ },
+ {
+   "Month": "1998M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.09"
+ },
+ {
+   "Month": "1998M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "90.05.00"
+ },
+ {
+   "Month": "1998M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.04.00"
+ },
+ {
+   "Month": "1998M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.04.00"
+ },
+ {
+   "Month": "1998M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "25.05.00"
+ },
+ {
+   "Month": "1998M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.05"
+ },
+ {
+   "Month": "1998M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.02"
+ },
+ {
+   "Month": "1998M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "88.00.00"
+ },
+ {
+   "Month": "1998M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "63.01.00"
+ },
+ {
+   "Month": "1998M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.06.00"
+ },
+ {
+   "Month": "1998M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.07.00"
+ },
+ {
+   "Month": "1998M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.00"
+ },
+ {
+   "Month": "1998M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.08"
+ },
+ {
+   "Month": "1998M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "86.08.00"
+ },
+ {
+   "Month": "1998M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.09.00"
+ },
+ {
+   "Month": "1998M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "22.09"
+ },
+ {
+   "Month": "1998M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "23.00"
+ },
+ {
+   "Month": "1998M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "16.08"
+ },
+ {
+   "Month": "1998M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "14.07"
+ },
+ {
+   "Month": "1999M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "86.05.00"
+ },
+ {
+   "Month": "1999M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "62.06.00"
+ },
+ {
+   "Month": "1999M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.06.00"
+ },
+ {
+   "Month": "1999M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.07.00"
+ },
+ {
+   "Month": "1999M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.03"
+ },
+ {
+   "Month": "1999M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.01"
+ },
+ {
+   "Month": "1999M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "91.02.00"
+ },
+ {
+   "Month": "1999M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "63.04.00"
+ },
+ {
+   "Month": "1999M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "24.01.00"
+ },
+ {
+   "Month": "1999M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "24.02.00"
+ },
+ {
+   "Month": "1999M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "17.02"
+ },
+ {
+   "Month": "1999M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.00"
+ },
+ {
+   "Month": "1999M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "92.02.00"
+ },
+ {
+   "Month": "1999M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "63.01.00"
+ },
+ {
+   "Month": "1999M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "25.09.00"
+ },
+ {
+   "Month": "1999M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.00.00"
+ },
+ {
+   "Month": "1999M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "17.07"
+ },
+ {
+   "Month": "1999M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "15.05"
+ },
+ {
+   "Month": "1999M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "99.01.00"
+ },
+ {
+   "Month": "1999M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "65.03.00"
+ },
+ {
+   "Month": "1999M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "27.04.00"
+ },
+ {
+   "Month": "1999M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "27.05.00"
+ },
+ {
+   "Month": "1999M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "18.07"
+ },
+ {
+   "Month": "1999M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "16.04"
+ },
+ {
+   "Month": "1999M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "98.01.00"
+ },
+ {
+   "Month": "1999M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "65.09.00"
+ },
+ {
+   "Month": "1999M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "27.03.00"
+ },
+ {
+   "Month": "1999M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "27.04.00"
+ },
+ {
+   "Month": "1999M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.00"
+ },
+ {
+   "Month": "1999M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.05"
+ },
+ {
+   "Month": "1999M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "99.06.00"
+ },
+ {
+   "Month": "1999M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "65.03.00"
+ },
+ {
+   "Month": "1999M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "26.06.00"
+ },
+ {
+   "Month": "1999M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "26.07.00"
+ },
+ {
+   "Month": "1999M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "20.02"
+ },
+ {
+   "Month": "1999M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "17.07"
+ },
+ {
+   "Month": "1999M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "100.01.00"
+ },
+ {
+   "Month": "1999M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "68.05.00"
+ },
+ {
+   "Month": "1999M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "29.09.00"
+ },
+ {
+   "Month": "1999M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "30.01.00"
+ },
+ {
+   "Month": "1999M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "21.08"
+ },
+ {
+   "Month": "1999M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "19.01"
+ },
+ {
+   "Month": "1999M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "105.08.00"
+ },
+ {
+   "Month": "1999M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "71.01.00"
+ },
+ {
+   "Month": "1999M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "30.01.00"
+ },
+ {
+   "Month": "1999M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "30.02.00"
+ },
+ {
+   "Month": "1999M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "23.09"
+ },
+ {
+   "Month": "1999M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "20.09"
+ },
+ {
+   "Month": "1999M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "105.00.00"
+ },
+ {
+   "Month": "1999M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "70.08.00"
+ },
+ {
+   "Month": "1999M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "32.01.00"
+ },
+ {
+   "Month": "1999M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "32.03.00"
+ },
+ {
+   "Month": "1999M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "24.08.00"
+ },
+ {
+   "Month": "1999M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "21.07"
+ },
+ {
+   "Month": "1999M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "103.03.00"
+ },
+ {
+   "Month": "1999M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "70.01.00"
+ },
+ {
+   "Month": "1999M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "31.05.00"
+ },
+ {
+   "Month": "1999M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "31.06.00"
+ },
+ {
+   "Month": "1999M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "25.02.00"
+ },
+ {
+   "Month": "1999M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "22.00"
+ },
+ {
+   "Month": "1999M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "104.06.00"
+ },
+ {
+   "Month": "1999M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "73.02.00"
+ },
+ {
+   "Month": "1999M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "33.06.00"
+ },
+ {
+   "Month": "1999M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "33.08.00"
+ },
+ {
+   "Month": "1999M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "25.03.00"
+ },
+ {
+   "Month": "1999M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "22.02"
+ },
+ {
+   "Month": "1999M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "108.03.00"
+ },
+ {
+   "Month": "1999M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "78.09.00"
+ },
+ {
+   "Month": "1999M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "35.08.00"
+ },
+ {
+   "Month": "1999M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "36.00.00"
+ },
+ {
+   "Month": "1999M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "25.08.00"
+ },
+ {
+   "Month": "1999M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "22.06"
+ },
+ {
+   "Month": "2000M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "107.01.00"
+ },
+ {
+   "Month": "2000M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "81.07.00"
+ },
+ {
+   "Month": "2000M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "35.07.00"
+ },
+ {
+   "Month": "2000M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "35.08.00"
+ },
+ {
+   "Month": "2000M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.01.00"
+ },
+ {
+   "Month": "2000M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "23.08"
+ },
+ {
+   "Month": "2000M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "107.03.00"
+ },
+ {
+   "Month": "2000M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "81.01.00"
+ },
+ {
+   "Month": "2000M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "37.05.00"
+ },
+ {
+   "Month": "2000M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "37.07.00"
+ },
+ {
+   "Month": "2000M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.08.00"
+ },
+ {
+   "Month": "2000M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.02.00"
+ },
+ {
+   "Month": "2000M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "114.00.00"
+ },
+ {
+   "Month": "2000M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "83.01.00"
+ },
+ {
+   "Month": "2000M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "38.07.00"
+ },
+ {
+   "Month": "2000M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "38.09.00"
+ },
+ {
+   "Month": "2000M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.04.00"
+ },
+ {
+   "Month": "2000M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.06.00"
+ },
+ {
+   "Month": "2000M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "109.08.00"
+ },
+ {
+   "Month": "2000M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "80.07.00"
+ },
+ {
+   "Month": "2000M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "36.02.00"
+ },
+ {
+   "Month": "2000M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "36.03.00"
+ },
+ {
+   "Month": "2000M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.08.00"
+ },
+ {
+   "Month": "2000M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.03.00"
+ },
+ {
+   "Month": "2000M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "114.04.00"
+ },
+ {
+   "Month": "2000M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "80.09.00"
+ },
+ {
+   "Month": "2000M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "40.05.00"
+ },
+ {
+   "Month": "2000M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "40.07.00"
+ },
+ {
+   "Month": "2000M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.04.00"
+ },
+ {
+   "Month": "2000M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.08.00"
+ },
+ {
+   "Month": "2000M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "123.06.00"
+ },
+ {
+   "Month": "2000M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.07.00"
+ },
+ {
+   "Month": "2000M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "39.04.00"
+ },
+ {
+   "Month": "2000M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "39.05.00"
+ },
+ {
+   "Month": "2000M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "31.02.00"
+ },
+ {
+   "Month": "2000M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "27.03.00"
+ },
+ {
+   "Month": "2000M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "118.04.00"
+ },
+ {
+   "Month": "2000M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "81.04.00"
+ },
+ {
+   "Month": "2000M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "41.00.00"
+ },
+ {
+   "Month": "2000M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "41.02.00"
+ },
+ {
+   "Month": "2000M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "31.03.00"
+ },
+ {
+   "Month": "2000M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "27.04.00"
+ },
+ {
+   "Month": "2000M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "115.07.00"
+ },
+ {
+   "Month": "2000M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.07.00"
+ },
+ {
+   "Month": "2000M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "44.04.00"
+ },
+ {
+   "Month": "2000M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "44.06.00"
+ },
+ {
+   "Month": "2000M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.00.00"
+ },
+ {
+   "Month": "2000M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.03.00"
+ },
+ {
+   "Month": "2000M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "117.04.00"
+ },
+ {
+   "Month": "2000M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "91.07.00"
+ },
+ {
+   "Month": "2000M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "54.02.00"
+ },
+ {
+   "Month": "2000M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "54.04.00"
+ },
+ {
+   "Month": "2000M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "34.03.00"
+ },
+ {
+   "Month": "2000M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "30.01.00"
+ },
+ {
+   "Month": "2000M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "115.00.00"
+ },
+ {
+   "Month": "2000M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "91.08.00"
+ },
+ {
+   "Month": "2000M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "53.01.00"
+ },
+ {
+   "Month": "2000M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "53.04.00"
+ },
+ {
+   "Month": "2000M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "36.08.00"
+ },
+ {
+   "Month": "2000M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "32.02.00"
+ },
+ {
+   "Month": "2000M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "113.09.00"
+ },
+ {
+   "Month": "2000M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "92.07.00"
+ },
+ {
+   "Month": "2000M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "51.06.00"
+ },
+ {
+   "Month": "2000M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "51.09.00"
+ },
+ {
+   "Month": "2000M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "35.03.00"
+ },
+ {
+   "Month": "2000M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "30.09.00"
+ },
+ {
+   "Month": "2000M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "104.09.00"
+ },
+ {
+   "Month": "2000M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "89.08.00"
+ },
+ {
+   "Month": "2000M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "47.03.00"
+ },
+ {
+   "Month": "2000M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "47.05.00"
+ },
+ {
+   "Month": "2000M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "32.06.00"
+ },
+ {
+   "Month": "2000M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "28.05.00"
+ },
+ {
+   "Month": "2001M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "107.08.00"
+ },
+ {
+   "Month": "2001M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "83.04.00"
+ },
+ {
+   "Month": "2001M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "40.02.00"
+ },
+ {
+   "Month": "2001M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "40.04.00"
+ },
+ {
+   "Month": "2001M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.08.00"
+ },
+ {
+   "Month": "2001M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "27.00.00"
+ },
+ {
+   "Month": "2001M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "111.03.00"
+ },
+ {
+   "Month": "2001M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.07.00"
+ },
+ {
+   "Month": "2001M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "42.07.00"
+ },
+ {
+   "Month": "2001M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "42.09.00"
+ },
+ {
+   "Month": "2001M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.03.00"
+ },
+ {
+   "Month": "2001M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.05.00"
+ },
+ {
+   "Month": "2001M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "111.02.00"
+ },
+ {
+   "Month": "2001M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.02.00"
+ },
+ {
+   "Month": "2001M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "40.04.00"
+ },
+ {
+   "Month": "2001M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "40.06.00"
+ },
+ {
+   "Month": "2001M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.09.00"
+ },
+ {
+   "Month": "2001M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.04.00"
+ },
+ {
+   "Month": "2001M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "112.03.00"
+ },
+ {
+   "Month": "2001M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.01.00"
+ },
+ {
+   "Month": "2001M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "40.04.00"
+ },
+ {
+   "Month": "2001M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "40.06.00"
+ },
+ {
+   "Month": "2001M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.05.00"
+ },
+ {
+   "Month": "2001M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.09.00"
+ },
+ {
+   "Month": "2001M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "125.05.00"
+ },
+ {
+   "Month": "2001M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "83.01.00"
+ },
+ {
+   "Month": "2001M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "41.05.00"
+ },
+ {
+   "Month": "2001M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "41.07.00"
+ },
+ {
+   "Month": "2001M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.03.00"
+ },
+ {
+   "Month": "2001M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.06.00"
+ },
+ {
+   "Month": "2001M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "117.06.00"
+ },
+ {
+   "Month": "2001M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.04.00"
+ },
+ {
+   "Month": "2001M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "44.01.00"
+ },
+ {
+   "Month": "2001M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "44.03.00"
+ },
+ {
+   "Month": "2001M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.05.00"
+ },
+ {
+   "Month": "2001M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.09.00"
+ },
+ {
+   "Month": "2001M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "112.00.00"
+ },
+ {
+   "Month": "2001M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.07.00"
+ },
+ {
+   "Month": "2001M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "41.04.00"
+ },
+ {
+   "Month": "2001M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "41.06.00"
+ },
+ {
+   "Month": "2001M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.03.00"
+ },
+ {
+   "Month": "2001M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.08.00"
+ },
+ {
+   "Month": "2001M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "111.03.00"
+ },
+ {
+   "Month": "2001M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.02.00"
+ },
+ {
+   "Month": "2001M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "40.07.00"
+ },
+ {
+   "Month": "2001M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "40.09.00"
+ },
+ {
+   "Month": "2001M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.06.00"
+ },
+ {
+   "Month": "2001M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.02.00"
+ },
+ {
+   "Month": "2001M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "112.05.00"
+ },
+ {
+   "Month": "2001M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "82.04.00"
+ },
+ {
+   "Month": "2001M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "42.09.00"
+ },
+ {
+   "Month": "2001M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "43.01.00"
+ },
+ {
+   "Month": "2001M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.06.00"
+ },
+ {
+   "Month": "2001M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.01.00"
+ },
+ {
+   "Month": "2001M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "106.01.00"
+ },
+ {
+   "Month": "2001M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "81.04.00"
+ },
+ {
+   "Month": "2001M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "38.00.00"
+ },
+ {
+   "Month": "2001M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "38.02.00"
+ },
+ {
+   "Month": "2001M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "25.05.00"
+ },
+ {
+   "Month": "2001M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "22.04"
+ },
+ {
+   "Month": "2001M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "104.04.00"
+ },
+ {
+   "Month": "2001M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "79.09.00"
+ },
+ {
+   "Month": "2001M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "36.03.00"
+ },
+ {
+   "Month": "2001M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "36.05.00"
+ },
+ {
+   "Month": "2001M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "23.08"
+ },
+ {
+   "Month": "2001M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "20.08"
+ },
+ {
+   "Month": "2001M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "98.04.00"
+ },
+ {
+   "Month": "2001M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.07.00"
+ },
+ {
+   "Month": "2001M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "32.03.00"
+ },
+ {
+   "Month": "2001M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "32.04.00"
+ },
+ {
+   "Month": "2001M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "24.09.00"
+ },
+ {
+   "Month": "2001M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "21.08"
+ },
+ {
+   "Month": "2002M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "101.03.00"
+ },
+ {
+   "Month": "2002M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "79.01.00"
+ },
+ {
+   "Month": "2002M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "33.07.00"
+ },
+ {
+   "Month": "2002M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "33.09.00"
+ },
+ {
+   "Month": "2002M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.02.00"
+ },
+ {
+   "Month": "2002M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "23.09"
+ },
+ {
+   "Month": "2002M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "100.04.00"
+ },
+ {
+   "Month": "2002M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.09.00"
+ },
+ {
+   "Month": "2002M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "34.00.00"
+ },
+ {
+   "Month": "2002M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "34.02.00"
+ },
+ {
+   "Month": "2002M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "25.06.00"
+ },
+ {
+   "Month": "2002M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "22.05"
+ },
+ {
+   "Month": "2002M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "103.03.00"
+ },
+ {
+   "Month": "2002M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.09.00"
+ },
+ {
+   "Month": "2002M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "37.03.00"
+ },
+ {
+   "Month": "2002M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "37.05.00"
+ },
+ {
+   "Month": "2002M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.03.00"
+ },
+ {
+   "Month": "2002M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "23.09"
+ },
+ {
+   "Month": "2002M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "113.05.00"
+ },
+ {
+   "Month": "2002M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "78.09.00"
+ },
+ {
+   "Month": "2002M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "37.01.00"
+ },
+ {
+   "Month": "2002M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "37.03.00"
+ },
+ {
+   "Month": "2002M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.05.00"
+ },
+ {
+   "Month": "2002M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.08.00"
+ },
+ {
+   "Month": "2002M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "112.04.00"
+ },
+ {
+   "Month": "2002M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "78.04.00"
+ },
+ {
+   "Month": "2002M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "37.04.00"
+ },
+ {
+   "Month": "2002M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "37.06.00"
+ },
+ {
+   "Month": "2002M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.02.00"
+ },
+ {
+   "Month": "2002M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.05.00"
+ },
+ {
+   "Month": "2002M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "107.04.00"
+ },
+ {
+   "Month": "2002M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.03.00"
+ },
+ {
+   "Month": "2002M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "34.08.00"
+ },
+ {
+   "Month": "2002M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "34.09.00"
+ },
+ {
+   "Month": "2002M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.08.00"
+ },
+ {
+   "Month": "2002M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.03.00"
+ },
+ {
+   "Month": "2002M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "111.02.00"
+ },
+ {
+   "Month": "2002M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.01.00"
+ },
+ {
+   "Month": "2002M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "35.06.00"
+ },
+ {
+   "Month": "2002M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "35.08.00"
+ },
+ {
+   "Month": "2002M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.08.00"
+ },
+ {
+   "Month": "2002M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.03.00"
+ },
+ {
+   "Month": "2002M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "109.01.00"
+ },
+ {
+   "Month": "2002M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.01.00"
+ },
+ {
+   "Month": "2002M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "36.05.00"
+ },
+ {
+   "Month": "2002M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "36.07.00"
+ },
+ {
+   "Month": "2002M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.03.00"
+ },
+ {
+   "Month": "2002M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.07.00"
+ },
+ {
+   "Month": "2002M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "111.02.00"
+ },
+ {
+   "Month": "2002M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "79.06.00"
+ },
+ {
+   "Month": "2002M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "39.02.00"
+ },
+ {
+   "Month": "2002M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "39.04.00"
+ },
+ {
+   "Month": "2002M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.08.00"
+ },
+ {
+   "Month": "2002M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "27.00.00"
+ },
+ {
+   "Month": "2002M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "111.03.00"
+ },
+ {
+   "Month": "2002M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "79.04.00"
+ },
+ {
+   "Month": "2002M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "39.08.00"
+ },
+ {
+   "Month": "2002M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "40.00.00"
+ },
+ {
+   "Month": "2002M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "31.05.00"
+ },
+ {
+   "Month": "2002M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "27.06.00"
+ },
+ {
+   "Month": "2002M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "105.05.00"
+ },
+ {
+   "Month": "2002M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "78.06.00"
+ },
+ {
+   "Month": "2002M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "35.04.00"
+ },
+ {
+   "Month": "2002M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "35.05.00"
+ },
+ {
+   "Month": "2002M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.05.00"
+ },
+ {
+   "Month": "2002M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.09.00"
+ },
+ {
+   "Month": "2002M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "103.06.00"
+ },
+ {
+   "Month": "2002M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "79.02.00"
+ },
+ {
+   "Month": "2002M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "38.08.00"
+ },
+ {
+   "Month": "2002M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "39.00.00"
+ },
+ {
+   "Month": "2002M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.01.00"
+ },
+ {
+   "Month": "2002M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.05.00"
+ },
+ {
+   "Month": "2003M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "113.07.00"
+ },
+ {
+   "Month": "2003M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "84.02.00"
+ },
+ {
+   "Month": "2003M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "40.03.00"
+ },
+ {
+   "Month": "2003M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "40.05.00"
+ },
+ {
+   "Month": "2003M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "32.06.00"
+ },
+ {
+   "Month": "2003M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "28.06.00"
+ },
+ {
+   "Month": "2003M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "115.01.00"
+ },
+ {
+   "Month": "2003M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "87.01.00"
+ },
+ {
+   "Month": "2003M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "45.09.00"
+ },
+ {
+   "Month": "2003M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "46.01.00"
+ },
+ {
+   "Month": "2003M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "34.02.00"
+ },
+ {
+   "Month": "2003M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "29.09.00"
+ },
+ {
+   "Month": "2003M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "114.00.00"
+ },
+ {
+   "Month": "2003M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "95.00.00"
+ },
+ {
+   "Month": "2003M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "49.01.00"
+ },
+ {
+   "Month": "2003M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "49.03.00"
+ },
+ {
+   "Month": "2003M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "33.01.00"
+ },
+ {
+   "Month": "2003M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "29.00.00"
+ },
+ {
+   "Month": "2003M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "113.01.00"
+ },
+ {
+   "Month": "2003M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "84.05.00"
+ },
+ {
+   "Month": "2003M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "36.07.00"
+ },
+ {
+   "Month": "2003M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "36.09.00"
+ },
+ {
+   "Month": "2003M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.05.00"
+ },
+ {
+   "Month": "2003M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.01.00"
+ },
+ {
+   "Month": "2003M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "107.06.00"
+ },
+ {
+   "Month": "2003M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "76.06.00"
+ },
+ {
+   "Month": "2003M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "34.08.00"
+ },
+ {
+   "Month": "2003M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "34.09.00"
+ },
+ {
+   "Month": "2003M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "26.06.00"
+ },
+ {
+   "Month": "2003M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "23.03"
+ },
+ {
+   "Month": "2003M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "110.04.00"
+ },
+ {
+   "Month": "2003M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "75.05.00"
+ },
+ {
+   "Month": "2003M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "36.01.00"
+ },
+ {
+   "Month": "2003M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "36.03.00"
+ },
+ {
+   "Month": "2003M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.04.00"
+ },
+ {
+   "Month": "2003M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.00.00"
+ },
+ {
+   "Month": "2003M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "113.04.00"
+ },
+ {
+   "Month": "2003M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "78.07.00"
+ },
+ {
+   "Month": "2003M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "37.07.00"
+ },
+ {
+   "Month": "2003M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "37.09.00"
+ },
+ {
+   "Month": "2003M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.09.00"
+ },
+ {
+   "Month": "2003M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.02.00"
+ },
+ {
+   "Month": "2003M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "109.09.00"
+ },
+ {
+   "Month": "2003M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.07.00"
+ },
+ {
+   "Month": "2003M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "38.03.00"
+ },
+ {
+   "Month": "2003M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "38.04.00"
+ },
+ {
+   "Month": "2003M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.07.00"
+ },
+ {
+   "Month": "2003M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.09.00"
+ },
+ {
+   "Month": "2003M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "109.02.00"
+ },
+ {
+   "Month": "2003M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "78.00.00"
+ },
+ {
+   "Month": "2003M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "36.01.00"
+ },
+ {
+   "Month": "2003M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "36.02.00"
+ },
+ {
+   "Month": "2003M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.06.00"
+ },
+ {
+   "Month": "2003M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.00.00"
+ },
+ {
+   "Month": "2003M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "102.05.00"
+ },
+ {
+   "Month": "2003M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "76.03.00"
+ },
+ {
+   "Month": "2003M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "39.00.00"
+ },
+ {
+   "Month": "2003M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "39.01.00"
+ },
+ {
+   "Month": "2003M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.01.00"
+ },
+ {
+   "Month": "2003M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.06.00"
+ },
+ {
+   "Month": "2003M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "100.09.00"
+ },
+ {
+   "Month": "2003M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "78.06.00"
+ },
+ {
+   "Month": "2003M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "38.07.00"
+ },
+ {
+   "Month": "2003M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "38.08.00"
+ },
+ {
+   "Month": "2003M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.02.00"
+ },
+ {
+   "Month": "2003M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.07.00"
+ },
+ {
+   "Month": "2003M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "103.08.00"
+ },
+ {
+   "Month": "2003M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.06.00"
+ },
+ {
+   "Month": "2003M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "37.00.00"
+ },
+ {
+   "Month": "2003M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "37.01.00"
+ },
+ {
+   "Month": "2003M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "26.06.00"
+ },
+ {
+   "Month": "2003M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "23.03"
+ },
+ {
+   "Month": "2004M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "106.09.00"
+ },
+ {
+   "Month": "2004M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "78.09.00"
+ },
+ {
+   "Month": "2004M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "38.09.00"
+ },
+ {
+   "Month": "2004M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "39.01.00"
+ },
+ {
+   "Month": "2004M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "26.07.00"
+ },
+ {
+   "Month": "2004M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "23.04"
+ },
+ {
+   "Month": "2004M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "107.06.00"
+ },
+ {
+   "Month": "2004M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "77.02.00"
+ },
+ {
+   "Month": "2004M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "35.06.00"
+ },
+ {
+   "Month": "2004M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "35.07.00"
+ },
+ {
+   "Month": "2004M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "26.00.00"
+ },
+ {
+   "Month": "2004M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "22.08"
+ },
+ {
+   "Month": "2004M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "110.06.00"
+ },
+ {
+   "Month": "2004M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "79.09.00"
+ },
+ {
+   "Month": "2004M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "39.05.00"
+ },
+ {
+   "Month": "2004M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "39.07.00"
+ },
+ {
+   "Month": "2004M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "27.01.00"
+ },
+ {
+   "Month": "2004M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "23.07"
+ },
+ {
+   "Month": "2004M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "114.02.00"
+ },
+ {
+   "Month": "2004M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "81.03.00"
+ },
+ {
+   "Month": "2004M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "41.04.00"
+ },
+ {
+   "Month": "2004M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "41.06.00"
+ },
+ {
+   "Month": "2004M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.03.00"
+ },
+ {
+   "Month": "2004M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.08.00"
+ },
+ {
+   "Month": "2004M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "118.03.00"
+ },
+ {
+   "Month": "2004M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "84.09.00"
+ },
+ {
+   "Month": "2004M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "43.00.00"
+ },
+ {
+   "Month": "2004M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "43.02.00"
+ },
+ {
+   "Month": "2004M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.01.00"
+ },
+ {
+   "Month": "2004M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.04.00"
+ },
+ {
+   "Month": "2004M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "113.06.00"
+ },
+ {
+   "Month": "2004M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "79.08.00"
+ },
+ {
+   "Month": "2004M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "42.07.00"
+ },
+ {
+   "Month": "2004M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "42.09.00"
+ },
+ {
+   "Month": "2004M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.09.00"
+ },
+ {
+   "Month": "2004M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.02.00"
+ },
+ {
+   "Month": "2004M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "117.08.00"
+ },
+ {
+   "Month": "2004M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "83.01.00"
+ },
+ {
+   "Month": "2004M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "44.09.00"
+ },
+ {
+   "Month": "2004M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "45.01.00"
+ },
+ {
+   "Month": "2004M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.00.00"
+ },
+ {
+   "Month": "2004M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.03.00"
+ },
+ {
+   "Month": "2004M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "116.07.00"
+ },
+ {
+   "Month": "2004M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "85.09.00"
+ },
+ {
+   "Month": "2004M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "48.00.00"
+ },
+ {
+   "Month": "2004M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "48.02.00"
+ },
+ {
+   "Month": "2004M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.08.00"
+ },
+ {
+   "Month": "2004M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.01.00"
+ },
+ {
+   "Month": "2004M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "116.05.00"
+ },
+ {
+   "Month": "2004M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "88.00.00"
+ },
+ {
+   "Month": "2004M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "48.03.00"
+ },
+ {
+   "Month": "2004M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "48.06.00"
+ },
+ {
+   "Month": "2004M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.03.00"
+ },
+ {
+   "Month": "2004M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.07.00"
+ },
+ {
+   "Month": "2004M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "120.00.00"
+ },
+ {
+   "Month": "2004M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "94.09.00"
+ },
+ {
+   "Month": "2004M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "55.09.00"
+ },
+ {
+   "Month": "2004M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "56.01.00"
+ },
+ {
+   "Month": "2004M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "31.01.00"
+ },
+ {
+   "Month": "2004M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "27.02.00"
+ },
+ {
+   "Month": "2004M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "115.02.00"
+ },
+ {
+   "Month": "2004M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "92.06.00"
+ },
+ {
+   "Month": "2004M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "49.03.00"
+ },
+ {
+   "Month": "2004M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "49.06.00"
+ },
+ {
+   "Month": "2004M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.06.00"
+ },
+ {
+   "Month": "2004M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.00.00"
+ },
+ {
+   "Month": "2004M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "111.02.00"
+ },
+ {
+   "Month": "2004M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "91.01.00"
+ },
+ {
+   "Month": "2004M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "44.09.00"
+ },
+ {
+   "Month": "2004M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "45.01.00"
+ },
+ {
+   "Month": "2004M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "28.00.00"
+ },
+ {
+   "Month": "2004M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "24.05.00"
+ },
+ {
+   "Month": "2005M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "108.00.00"
+ },
+ {
+   "Month": "2005M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "87.08.00"
+ },
+ {
+   "Month": "2005M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "47.07.00"
+ },
+ {
+   "Month": "2005M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "48.00.00"
+ },
+ {
+   "Month": "2005M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "29.04.00"
+ },
+ {
+   "Month": "2005M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "25.07.00"
+ },
+ {
+   "Month": "2005M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "112.00.00"
+ },
+ {
+   "Month": "2005M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "88.02.00"
+ },
+ {
+   "Month": "2005M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "48.01.00"
+ },
+ {
+   "Month": "2005M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "48.03.00"
+ },
+ {
+   "Month": "2005M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "30.07.00"
+ },
+ {
+   "Month": "2005M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "26.09.00"
+ },
+ {
+   "Month": "2005M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "112.07.00"
+ },
+ {
+   "Month": "2005M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "93.04.00"
+ },
+ {
+   "Month": "2005M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "54.03.00"
+ },
+ {
+   "Month": "2005M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "54.06.00"
+ },
+ {
+   "Month": "2005M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "33.07.00"
+ },
+ {
+   "Month": "2005M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "29.05.00"
+ },
+ {
+   "Month": "2005M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "120.06.00"
+ },
+ {
+   "Month": "2005M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "97.02.00"
+ },
+ {
+   "Month": "2005M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "53.08.00"
+ },
+ {
+   "Month": "2005M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "54.01.00"
+ },
+ {
+   "Month": "2005M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "36.03.00"
+ },
+ {
+   "Month": "2005M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "31.08.00"
+ },
+ {
+   "Month": "2005M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "116.05.00"
+ },
+ {
+   "Month": "2005M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "93.01.00"
+ },
+ {
+   "Month": "2005M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "52.03.00"
+ },
+ {
+   "Month": "2005M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "52.05.00"
+ },
+ {
+   "Month": "2005M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "36.01.00"
+ },
+ {
+   "Month": "2005M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "31.06.00"
+ },
+ {
+   "Month": "2005M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "120.06.00"
+ },
+ {
+   "Month": "2005M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "97.00.00"
+ },
+ {
+   "Month": "2005M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "60.07.00"
+ },
+ {
+   "Month": "2005M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "61.00.00"
+ },
+ {
+   "Month": "2005M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "38.03.00"
+ },
+ {
+   "Month": "2005M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "33.05.00"
+ },
+ {
+   "Month": "2005M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "126.08.00"
+ },
+ {
+   "Month": "2005M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "98.04.00"
+ },
+ {
+   "Month": "2005M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "61.04.00"
+ },
+ {
+   "Month": "2005M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "61.07.00"
+ },
+ {
+   "Month": "2005M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "40.02.00"
+ },
+ {
+   "Month": "2005M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "35.02.00"
+ },
+ {
+   "Month": "2005M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "128.06.00"
+ },
+ {
+   "Month": "2005M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "98.08.00"
+ },
+ {
+   "Month": "2005M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "63.02.00"
+ },
+ {
+   "Month": "2005M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "63.05.00"
+ },
+ {
+   "Month": "2005M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "41.04.00"
+ },
+ {
+   "Month": "2005M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "36.02.00"
+ },
+ {
+   "Month": "2005M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "135.01.00"
+ },
+ {
+   "Month": "2005M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "104.04.00"
+ },
+ {
+   "Month": "2005M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "66.00.00"
+ },
+ {
+   "Month": "2005M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "66.03.00"
+ },
+ {
+   "Month": "2005M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "45.05.00"
+ },
+ {
+   "Month": "2005M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "39.08.00"
+ },
+ {
+   "Month": "2005M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "130.03.00"
+ },
+ {
+   "Month": "2005M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "103.07.00"
+ },
+ {
+   "Month": "2005M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "68.04.00"
+ },
+ {
+   "Month": "2005M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "68.07.00"
+ },
+ {
+   "Month": "2005M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "44.09.00"
+ },
+ {
+   "Month": "2005M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "39.03.00"
+ },
+ {
+   "Month": "2005M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "119.03.00"
+ },
+ {
+   "Month": "2005M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "99.07.00"
+ },
+ {
+   "Month": "2005M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "62.01.00"
+ },
+ {
+   "Month": "2005M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "62.03.00"
+ },
+ {
+   "Month": "2005M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "43.07.00"
+ },
+ {
+   "Month": "2005M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "38.03.00"
+ },
+ {
+   "Month": "2005M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "123.00.00"
+ },
+ {
+   "Month": "2005M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "100.09.00"
+ },
+ {
+   "Month": "2005M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "60.07.00"
+ },
+ {
+   "Month": "2005M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "61.00.00"
+ },
+ {
+   "Month": "2005M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "43.04.00"
+ },
+ {
+   "Month": "2005M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "38.00.00"
+ },
+ {
+   "Month": "2006M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "122.08.00"
+ },
+ {
+   "Month": "2006M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "99.06.00"
+ },
+ {
+   "Month": "2006M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "61.09.00"
+ },
+ {
+   "Month": "2006M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "62.02.00"
+ },
+ {
+   "Month": "2006M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "44.04.00"
+ },
+ {
+   "Month": "2006M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "38.09.00"
+ },
+ {
+   "Month": "2006M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "126.08.00"
+ },
+ {
+   "Month": "2006M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "101.09.00"
+ },
+ {
+   "Month": "2006M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "62.07.00"
+ },
+ {
+   "Month": "2006M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "63.00.00"
+ },
+ {
+   "Month": "2006M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "45.07.00"
+ },
+ {
+   "Month": "2006M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "40.00.00"
+ },
+ {
+   "Month": "2006M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "124.04.00"
+ },
+ {
+   "Month": "2006M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "101.08.00"
+ },
+ {
+   "Month": "2006M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "63.07.00"
+ },
+ {
+   "Month": "2006M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "64.00.00"
+ },
+ {
+   "Month": "2006M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "45.04.00"
+ },
+ {
+   "Month": "2006M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "39.08.00"
+ },
+ {
+   "Month": "2006M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "132.03.00"
+ },
+ {
+   "Month": "2006M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "102.06.00"
+ },
+ {
+   "Month": "2006M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "67.05.00"
+ },
+ {
+   "Month": "2006M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "67.08.00"
+ },
+ {
+   "Month": "2006M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "46.02.00"
+ },
+ {
+   "Month": "2006M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "40.04.00"
+ },
+ {
+   "Month": "2006M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "136.04.00"
+ },
+ {
+   "Month": "2006M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "105.01.00"
+ },
+ {
+   "Month": "2006M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "69.03.00"
+ },
+ {
+   "Month": "2006M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "69.06.00"
+ },
+ {
+   "Month": "2006M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "44.06.00"
+ },
+ {
+   "Month": "2006M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "39.01.00"
+ },
+ {
+   "Month": "2006M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "133.03.00"
+ },
+ {
+   "Month": "2006M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "103.01.00"
+ },
+ {
+   "Month": "2006M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "67.08.00"
+ },
+ {
+   "Month": "2006M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "68.01.00"
+ },
+ {
+   "Month": "2006M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "44.02.00"
+ },
+ {
+   "Month": "2006M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "38.07.00"
+ },
+ {
+   "Month": "2006M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "138.05.00"
+ },
+ {
+   "Month": "2006M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "104.04.00"
+ },
+ {
+   "Month": "2006M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "68.04.00"
+ },
+ {
+   "Month": "2006M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "68.07.00"
+ },
+ {
+   "Month": "2006M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "45.01.00"
+ },
+ {
+   "Month": "2006M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "39.05.00"
+ },
+ {
+   "Month": "2006M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "137.05.00"
+ },
+ {
+   "Month": "2006M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "105.08.00"
+ },
+ {
+   "Month": "2006M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "71.02.00"
+ },
+ {
+   "Month": "2006M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "71.05.00"
+ },
+ {
+   "Month": "2006M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "45.05.00"
+ },
+ {
+   "Month": "2006M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "39.08.00"
+ },
+ {
+   "Month": "2006M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "126.03.00"
+ },
+ {
+   "Month": "2006M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "101.06.00"
+ },
+ {
+   "Month": "2006M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "62.03.00"
+ },
+ {
+   "Month": "2006M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "62.06.00"
+ },
+ {
+   "Month": "2006M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "40.05.00"
+ },
+ {
+   "Month": "2006M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "35.05.00"
+ },
+ {
+   "Month": "2006M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "122.09.00"
+ },
+ {
+   "Month": "2006M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "99.03.00"
+ },
+ {
+   "Month": "2006M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "60.01.00"
+ },
+ {
+   "Month": "2006M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "60.04.00"
+ },
+ {
+   "Month": "2006M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "38.04.00"
+ },
+ {
+   "Month": "2006M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "33.06.00"
+ },
+ {
+   "Month": "2006M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "122.08.00"
+ },
+ {
+   "Month": "2006M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "101.06.00"
+ },
+ {
+   "Month": "2006M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "58.06.00"
+ },
+ {
+   "Month": "2006M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "58.09.00"
+ },
+ {
+   "Month": "2006M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "38.01.00"
+ },
+ {
+   "Month": "2006M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "33.03.00"
+ },
+ {
+   "Month": "2006M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "121.04.00"
+ },
+ {
+   "Month": "2006M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "100.01.00"
+ },
+ {
+   "Month": "2006M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "58.03.00"
+ },
+ {
+   "Month": "2006M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "58.06.00"
+ },
+ {
+   "Month": "2006M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "37.06.00"
+ },
+ {
+   "Month": "2006M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "32.09.00"
+ },
+ {
+   "Month": "2007M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "116.03.00"
+ },
+ {
+   "Month": "2007M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "95.08.00"
+ },
+ {
+   "Month": "2007M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "54.05.00"
+ },
+ {
+   "Month": "2007M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "54.08.00"
+ },
+ {
+   "Month": "2007M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "35.01.00"
+ },
+ {
+   "Month": "2007M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "30.07.00"
+ },
+ {
+   "Month": "2007M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "120.05.00"
+ },
+ {
+   "Month": "2007M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "97.07.00"
+ },
+ {
+   "Month": "2007M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "56.08.00"
+ },
+ {
+   "Month": "2007M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "57.01.00"
+ },
+ {
+   "Month": "2007M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "36.02.00"
+ },
+ {
+   "Month": "2007M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "31.07.00"
+ },
+ {
+   "Month": "2007M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "126.04.00"
+ },
+ {
+   "Month": "2007M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "98.08.00"
+ },
+ {
+   "Month": "2007M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "58.01.00"
+ },
+ {
+   "Month": "2007M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "58.04.00"
+ },
+ {
+   "Month": "2007M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "38.01.00"
+ },
+ {
+   "Month": "2007M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "33.03.00"
+ },
+ {
+   "Month": "2007M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "128.04.00"
+ },
+ {
+   "Month": "2007M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "98.07.00"
+ },
+ {
+   "Month": "2007M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "61.02.00"
+ },
+ {
+   "Month": "2007M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "61.04.00"
+ },
+ {
+   "Month": "2007M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "40.08.00"
+ },
+ {
+   "Month": "2007M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "35.08.00"
+ },
+ {
+   "Month": "2007M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "135.06.00"
+ },
+ {
+   "Month": "2007M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "97.07.00"
+ },
+ {
+   "Month": "2007M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "60.05.00"
+ },
+ {
+   "Month": "2007M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "60.08.00"
+ },
+ {
+   "Month": "2007M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "42.01.00"
+ },
+ {
+   "Month": "2007M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "36.09.00"
+ },
+ {
+   "Month": "2007M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "135.04.00"
+ },
+ {
+   "Month": "2007M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "99.06.00"
+ },
+ {
+   "Month": "2007M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "62.05.00"
+ },
+ {
+   "Month": "2007M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "62.08.00"
+ },
+ {
+   "Month": "2007M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "43.07.00"
+ },
+ {
+   "Month": "2007M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "38.02.00"
+ },
+ {
+   "Month": "2007M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "135.09.00"
+ },
+ {
+   "Month": "2007M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "101.01.00"
+ },
+ {
+   "Month": "2007M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "65.04.00"
+ },
+ {
+   "Month": "2007M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "65.07.00"
+ },
+ {
+   "Month": "2007M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "46.02.00"
+ },
+ {
+   "Month": "2007M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "40.05.00"
+ },
+ {
+   "Month": "2007M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "132.04.00"
+ },
+ {
+   "Month": "2007M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "100.07.00"
+ },
+ {
+   "Month": "2007M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "63.04.00"
+ },
+ {
+   "Month": "2007M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "63.07.00"
+ },
+ {
+   "Month": "2007M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "45.08.00"
+ },
+ {
+   "Month": "2007M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "40.01.00"
+ },
+ {
+   "Month": "2007M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "131.04.00"
+ },
+ {
+   "Month": "2007M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "101.07.00"
+ },
+ {
+   "Month": "2007M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "67.01.00"
+ },
+ {
+   "Month": "2007M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "67.04.00"
+ },
+ {
+   "Month": "2007M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "45.04.00"
+ },
+ {
+   "Month": "2007M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "39.07.00"
+ },
+ {
+   "Month": "2007M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "128.00.00"
+ },
+ {
+   "Month": "2007M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "102.01.00"
+ },
+ {
+   "Month": "2007M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "67.01.00"
+ },
+ {
+   "Month": "2007M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "67.04.00"
+ },
+ {
+   "Month": "2007M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "48.01.00"
+ },
+ {
+   "Month": "2007M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "42.01.00"
+ },
+ {
+   "Month": "2007M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "134.08.00"
+ },
+ {
+   "Month": "2007M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "115.00.00"
+ },
+ {
+   "Month": "2007M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "73.09.00"
+ },
+ {
+   "Month": "2007M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "74.02.00"
+ },
+ {
+   "Month": "2007M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "53.04.00"
+ },
+ {
+   "Month": "2007M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "46.08.00"
+ },
+ {
+   "Month": "2007M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "132.05.00"
+ },
+ {
+   "Month": "2007M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "113.01.00"
+ },
+ {
+   "Month": "2007M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "72.02.00"
+ },
+ {
+   "Month": "2007M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "72.05.00"
+ },
+ {
+   "Month": "2007M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "53.01.00"
+ },
+ {
+   "Month": "2007M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "46.05.00"
+ },
+ {
+   "Month": "2008M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "142.00.00"
+ },
+ {
+   "Month": "2008M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "121.08.00"
+ },
+ {
+   "Month": "2008M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "76.08.00"
+ },
+ {
+   "Month": "2008M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "77.02.00"
+ },
+ {
+   "Month": "2008M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "54.02.00"
+ },
+ {
+   "Month": "2008M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "47.04.00"
+ },
+ {
+   "Month": "2008M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "140.08.00"
+ },
+ {
+   "Month": "2008M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "120.01.00"
+ },
+ {
+   "Month": "2008M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "78.07.00"
+ },
+ {
+   "Month": "2008M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "79.01.00"
+ },
+ {
+   "Month": "2008M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "53.02.00"
+ },
+ {
+   "Month": "2008M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "46.06.00"
+ },
+ {
+   "Month": "2008M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "141.09.00"
+ },
+ {
+   "Month": "2008M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "125.07.00"
+ },
+ {
+   "Month": "2008M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "84.04.00"
+ },
+ {
+   "Month": "2008M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "84.08.00"
+ },
+ {
+   "Month": "2008M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "53.09.00"
+ },
+ {
+   "Month": "2008M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "47.02.00"
+ },
+ {
+   "Month": "2008M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "141.07.00"
+ },
+ {
+   "Month": "2008M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "125.06.00"
+ },
+ {
+   "Month": "2008M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "86.01.00"
+ },
+ {
+   "Month": "2008M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "86.05.00"
+ },
+ {
+   "Month": "2008M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "55.06.00"
+ },
+ {
+   "Month": "2008M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "48.07.00"
+ },
+ {
+   "Month": "2008M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "149.00.00"
+ },
+ {
+   "Month": "2008M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "135.01.00"
+ },
+ {
+   "Month": "2008M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "98.09.00"
+ },
+ {
+   "Month": "2008M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "99.03.00"
+ },
+ {
+   "Month": "2008M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "59.09.00"
+ },
+ {
+   "Month": "2008M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "52.04.00"
+ },
+ {
+   "Month": "2008M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "157.04.00"
+ },
+ {
+   "Month": "2008M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "143.09.00"
+ },
+ {
+   "Month": "2008M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "102.05.00"
+ },
+ {
+   "Month": "2008M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "103.00.00"
+ },
+ {
+   "Month": "2008M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "65.02.00"
+ },
+ {
+   "Month": "2008M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "57.01.00"
+ },
+ {
+   "Month": "2008M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "157.05.00"
+ },
+ {
+   "Month": "2008M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "144.02.00"
+ },
+ {
+   "Month": "2008M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "102.03.00"
+ },
+ {
+   "Month": "2008M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "102.08.00"
+ },
+ {
+   "Month": "2008M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "71.00.00"
+ },
+ {
+   "Month": "2008M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "62.02.00"
+ },
+ {
+   "Month": "2008M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "150.04.00"
+ },
+ {
+   "Month": "2008M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "136.04.00"
+ },
+ {
+   "Month": "2008M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "88.07.00"
+ },
+ {
+   "Month": "2008M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "89.01.00"
+ },
+ {
+   "Month": "2008M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "66.03.00"
+ },
+ {
+   "Month": "2008M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "58.00.00"
+ },
+ {
+   "Month": "2008M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "149.09.00"
+ },
+ {
+   "Month": "2008M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "133.01.00"
+ },
+ {
+   "Month": "2008M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "88.07.00"
+ },
+ {
+   "Month": "2008M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "89.01.00"
+ },
+ {
+   "Month": "2008M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "61.08.00"
+ },
+ {
+   "Month": "2008M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "54.01.00"
+ },
+ {
+   "Month": "2008M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "139.07.00"
+ },
+ {
+   "Month": "2008M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "120.09.00"
+ },
+ {
+   "Month": "2008M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "77.06.00"
+ },
+ {
+   "Month": "2008M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "78.00.00"
+ },
+ {
+   "Month": "2008M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "53.05.00"
+ },
+ {
+   "Month": "2008M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "46.08.00"
+ },
+ {
+   "Month": "2008M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "122.08.00"
+ },
+ {
+   "Month": "2008M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "109.01.00"
+ },
+ {
+   "Month": "2008M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "67.03.00"
+ },
+ {
+   "Month": "2008M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "67.06.00"
+ },
+ {
+   "Month": "2008M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "44.00.00"
+ },
+ {
+   "Month": "2008M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "38.05.00"
+ },
+ {
+   "Month": "2008M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "114.04.00"
+ },
+ {
+   "Month": "2008M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "101.01.00"
+ },
+ {
+   "Month": "2008M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "55.01.00"
+ },
+ {
+   "Month": "2008M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "54.09.00"
+ },
+ {
+   "Month": "2008M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "37.04.00"
+ },
+ {
+   "Month": "2008M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "32.07.00"
+ },
+ {
+   "Month": "2009M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "114.07.00"
+ },
+ {
+   "Month": "2009M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "98.02.00"
+ },
+ {
+   "Month": "2009M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "57.04.00"
+ },
+ {
+   "Month": "2009M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "57.03.00"
+ },
+ {
+   "Month": "2009M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "36.03.00"
+ },
+ {
+   "Month": "2009M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "31.08.00"
+ },
+ {
+   "Month": "2009M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "118.03.00"
+ },
+ {
+   "Month": "2009M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "97.00.00"
+ },
+ {
+   "Month": "2009M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "55.06.00"
+ },
+ {
+   "Month": "2009M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "55.05.00"
+ },
+ {
+   "Month": "2009M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "37.07.00"
+ },
+ {
+   "Month": "2009M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "33.00.00"
+ },
+ {
+   "Month": "2009M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "119.06.00"
+ },
+ {
+   "Month": "2009M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "93.01.00"
+ },
+ {
+   "Month": "2009M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "52.02.00"
+ },
+ {
+   "Month": "2009M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "52.01.00"
+ },
+ {
+   "Month": "2009M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "36.01.00"
+ },
+ {
+   "Month": "2009M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "31.07.00"
+ },
+ {
+   "Month": "2009M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "122.09.00"
+ },
+ {
+   "Month": "2009M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "94.09.00"
+ },
+ {
+   "Month": "2009M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "56.04.00"
+ },
+ {
+   "Month": "2009M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "56.02.00"
+ },
+ {
+   "Month": "2009M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "39.09.00"
+ },
+ {
+   "Month": "2009M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "35.00.00"
+ },
+ {
+   "Month": "2009M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "130.01.00"
+ },
+ {
+   "Month": "2009M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "98.00.00"
+ },
+ {
+   "Month": "2009M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "57.05.00"
+ },
+ {
+   "Month": "2009M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "57.04.00"
+ },
+ {
+   "Month": "2009M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "42.09.00"
+ },
+ {
+   "Month": "2009M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "37.06.00"
+ },
+ {
+   "Month": "2009M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "137.04.00"
+ },
+ {
+   "Month": "2009M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "101.05.00"
+ },
+ {
+   "Month": "2009M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "62.09.00"
+ },
+ {
+   "Month": "2009M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "62.07.00"
+ },
+ {
+   "Month": "2009M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "48.04.00"
+ },
+ {
+   "Month": "2009M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "42.04.00"
+ },
+ {
+   "Month": "2009M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "134.03.00"
+ },
+ {
+   "Month": "2009M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "99.06.00"
+ },
+ {
+   "Month": "2009M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "57.03.00"
+ },
+ {
+   "Month": "2009M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "57.02.00"
+ },
+ {
+   "Month": "2009M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "47.05.00"
+ },
+ {
+   "Month": "2009M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "41.06.00"
+ },
+ {
+   "Month": "2009M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "135.09.00"
+ },
+ {
+   "Month": "2009M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "102.01.00"
+ },
+ {
+   "Month": "2009M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "64.09.00"
+ },
+ {
+   "Month": "2009M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "64.08.00"
+ },
+ {
+   "Month": "2009M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "50.05.00"
+ },
+ {
+   "Month": "2009M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "44.02.00"
+ },
+ {
+   "Month": "2009M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "131.09.00"
+ },
+ {
+   "Month": "2009M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "99.08.00"
+ },
+ {
+   "Month": "2009M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "61.03.00"
+ },
+ {
+   "Month": "2009M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "61.01.00"
+ },
+ {
+   "Month": "2009M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "50.03.00"
+ },
+ {
+   "Month": "2009M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "44.01.00"
+ },
+ {
+   "Month": "2009M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "129.08.00"
+ },
+ {
+   "Month": "2009M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "99.02.00"
+ },
+ {
+   "Month": "2009M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "63.04.00"
+ },
+ {
+   "Month": "2009M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "63.02.00"
+ },
+ {
+   "Month": "2009M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "49.06.00"
+ },
+ {
+   "Month": "2009M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "43.05.00"
+ },
+ {
+   "Month": "2009M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "133.07.00"
+ },
+ {
+   "Month": "2009M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "103.07.00"
+ },
+ {
+   "Month": "2009M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "65.02.00"
+ },
+ {
+   "Month": "2009M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "65.00.00"
+ },
+ {
+   "Month": "2009M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "51.08.00"
+ },
+ {
+   "Month": "2009M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "45.04.00"
+ },
+ {
+   "Month": "2009M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "132.02.00"
+ },
+ {
+   "Month": "2009M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "102.08.00"
+ },
+ {
+   "Month": "2009M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "63.00.00"
+ },
+ {
+   "Month": "2009M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "62.09.00"
+ },
+ {
+   "Month": "2009M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "51.05.00"
+ },
+ {
+   "Month": "2009M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "45.01.00"
+ },
+ {
+   "Month": "2010M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "136.09.00"
+ },
+ {
+   "Month": "2010M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "108.00.00"
+ },
+ {
+   "Month": "2010M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "68.06.00"
+ },
+ {
+   "Month": "2010M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "68.05.00"
+ },
+ {
+   "Month": "2010M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "53.05.00"
+ },
+ {
+   "Month": "2010M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "46.09.00"
+ },
+ {
+   "Month": "2010M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "134.09.00"
+ },
+ {
+   "Month": "2010M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "106.00.00"
+ },
+ {
+   "Month": "2010M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "67.07.00"
+ },
+ {
+   "Month": "2010M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "67.05.00"
+ },
+ {
+   "Month": "2010M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "52.08.00"
+ },
+ {
+   "Month": "2010M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "46.03.00"
+ },
+ {
+   "Month": "2010M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "142.03.00"
+ },
+ {
+   "Month": "2010M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "111.06.00"
+ },
+ {
+   "Month": "2010M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "73.09.00"
+ },
+ {
+   "Month": "2010M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "73.08.00"
+ },
+ {
+   "Month": "2010M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "55.06.00"
+ },
+ {
+   "Month": "2010M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "48.07.00"
+ },
+ {
+   "Month": "2010M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.08.00"
+ },
+ {
+   "Month": "2010M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "114.04.00"
+ },
+ {
+   "Month": "2010M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "77.03.00"
+ },
+ {
+   "Month": "2010M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "77.01.00"
+ },
+ {
+   "Month": "2010M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "58.09.00"
+ },
+ {
+   "Month": "2010M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "51.06.00"
+ },
+ {
+   "Month": "2010M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "145.09.00"
+ },
+ {
+   "Month": "2010M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "115.09.00"
+ },
+ {
+   "Month": "2010M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "79.07.00"
+ },
+ {
+   "Month": "2010M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "79.06.00"
+ },
+ {
+   "Month": "2010M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "58.08.00"
+ },
+ {
+   "Month": "2010M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "51.05.00"
+ },
+ {
+   "Month": "2010M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.08.00"
+ },
+ {
+   "Month": "2010M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "116.02.00"
+ },
+ {
+   "Month": "2010M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "80.00.00"
+ },
+ {
+   "Month": "2010M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "79.08.00"
+ },
+ {
+   "Month": "2010M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "59.01.00"
+ },
+ {
+   "Month": "2010M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "51.08.00"
+ },
+ {
+   "Month": "2010M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.07.00"
+ },
+ {
+   "Month": "2010M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "115.02.00"
+ },
+ {
+   "Month": "2010M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "77.08.00"
+ },
+ {
+   "Month": "2010M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "77.07.00"
+ },
+ {
+   "Month": "2010M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "59.04.00"
+ },
+ {
+   "Month": "2010M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "52.00.00"
+ },
+ {
+   "Month": "2010M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.01.00"
+ },
+ {
+   "Month": "2010M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "114.04.00"
+ },
+ {
+   "Month": "2010M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "76.07.00"
+ },
+ {
+   "Month": "2010M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "76.05.00"
+ },
+ {
+   "Month": "2010M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "59.03.00"
+ },
+ {
+   "Month": "2010M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "52.00.00"
+ },
+ {
+   "Month": "2010M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.06.00"
+ },
+ {
+   "Month": "2010M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "115.05.00"
+ },
+ {
+   "Month": "2010M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "78.09.00"
+ },
+ {
+   "Month": "2010M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "78.07.00"
+ },
+ {
+   "Month": "2010M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "58.06.00"
+ },
+ {
+   "Month": "2010M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "51.03.00"
+ },
+ {
+   "Month": "2010M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "141.06.00"
+ },
+ {
+   "Month": "2010M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "114.00.00"
+ },
+ {
+   "Month": "2010M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "78.01.00"
+ },
+ {
+   "Month": "2010M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "77.09.00"
+ },
+ {
+   "Month": "2010M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "57.00.00"
+ },
+ {
+   "Month": "2010M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "49.09.00"
+ },
+ {
+   "Month": "2010M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.01.00"
+ },
+ {
+   "Month": "2010M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "117.04.00"
+ },
+ {
+   "Month": "2010M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "81.02.00"
+ },
+ {
+   "Month": "2010M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "81.00.00"
+ },
+ {
+   "Month": "2010M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "58.02.00"
+ },
+ {
+   "Month": "2010M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "50.09.00"
+ },
+ {
+   "Month": "2010M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "149.03.00"
+ },
+ {
+   "Month": "2010M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "126.08.00"
+ },
+ {
+   "Month": "2010M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "92.05.00"
+ },
+ {
+   "Month": "2010M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "92.03.00"
+ },
+ {
+   "Month": "2010M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "61.02.00"
+ },
+ {
+   "Month": "2010M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "53.06.00"
+ },
+ {
+   "Month": "2011M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "150.09.00"
+ },
+ {
+   "Month": "2011M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "131.00.00"
+ },
+ {
+   "Month": "2011M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "104.08.00"
+ },
+ {
+   "Month": "2011M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "104.05.00"
+ },
+ {
+   "Month": "2011M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "150.06.00"
+ },
+ {
+   "Month": "2011M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "131.09.00"
+ },
+ {
+   "Month": "2011M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "102.04.00"
+ },
+ {
+   "Month": "2011M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "102.01.00"
+ },
+ {
+   "Month": "2011M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "156.02.00"
+ },
+ {
+   "Month": "2011M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "138.01.00"
+ },
+ {
+   "Month": "2011M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "109.03.00"
+ },
+ {
+   "Month": "2011M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "109.01.00"
+ },
+ {
+   "Month": "2011M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "157.00.00"
+ },
+ {
+   "Month": "2011M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "137.04.00"
+ },
+ {
+   "Month": "2011M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "110.01.00"
+ },
+ {
+   "Month": "2011M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "109.09.00"
+ },
+ {
+   "Month": "2011M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "159.05.00"
+ },
+ {
+   "Month": "2011M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "137.08.00"
+ },
+ {
+   "Month": "2011M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "103.06.00"
+ },
+ {
+   "Month": "2011M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "103.03.00"
+ },
+ {
+   "Month": "2011M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "158.04.00"
+ },
+ {
+   "Month": "2011M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "137.07.00"
+ },
+ {
+   "Month": "2011M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "106.08.00"
+ },
+ {
+   "Month": "2011M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "106.05.00"
+ },
+ {
+   "Month": "2011M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "158.04.00"
+ },
+ {
+   "Month": "2011M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "137.05.00"
+ },
+ {
+   "Month": "2011M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "108.00.00"
+ },
+ {
+   "Month": "2011M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "107.07.00"
+ },
+ {
+   "Month": "2011M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "157.04.00"
+ },
+ {
+   "Month": "2011M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "136.06.00"
+ },
+ {
+   "Month": "2011M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "101.04.00"
+ },
+ {
+   "Month": "2011M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "101.01.00"
+ },
+ {
+   "Month": "2011M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "158.04.00"
+ },
+ {
+   "Month": "2011M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "137.03.00"
+ },
+ {
+   "Month": "2011M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "107.00.00"
+ },
+ {
+   "Month": "2011M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "106.08.00"
+ },
+ {
+   "Month": "2011M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "157.02.00"
+ },
+ {
+   "Month": "2011M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "136.07.00"
+ },
+ {
+   "Month": "2011M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "107.02.00"
+ },
+ {
+   "Month": "2011M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "107.00.00"
+ },
+ {
+   "Month": "2011M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "156.04.00"
+ },
+ {
+   "Month": "2011M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "140.00.00"
+ },
+ {
+   "Month": "2011M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "113.00.00"
+ },
+ {
+   "Month": "2011M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "112.08.00"
+ },
+ {
+   "Month": "2011M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "153.01.00"
+ },
+ {
+   "Month": "2011M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "139.08.00"
+ },
+ {
+   "Month": "2011M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "109.03.00"
+ },
+ {
+   "Month": "2011M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "109.01.00"
+ },
+ {
+   "Month": "2011M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2011M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "160.06.00"
+ },
+ {
+   "Month": "2012M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "155.07.00"
+ },
+ {
+   "Month": "2012M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "114.02.00"
+ },
+ {
+   "Month": "2012M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "113.09.00"
+ },
+ {
+   "Month": "2012M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "163.04.00"
+ },
+ {
+   "Month": "2012M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "157.00.00"
+ },
+ {
+   "Month": "2012M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "112.09.00"
+ },
+ {
+   "Month": "2012M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "112.06.00"
+ },
+ {
+   "Month": "2012M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "167.03.00"
+ },
+ {
+   "Month": "2012M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "158.00.00"
+ },
+ {
+   "Month": "2012M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "117.02.00"
+ },
+ {
+   "Month": "2012M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "116.09.00"
+ },
+ {
+   "Month": "2012M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "171.07.00"
+ },
+ {
+   "Month": "2012M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "155.07.00"
+ },
+ {
+   "Month": "2012M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "114.05.00"
+ },
+ {
+   "Month": "2012M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "114.02.00"
+ },
+ {
+   "Month": "2012M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "166.05.00"
+ },
+ {
+   "Month": "2012M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "153.05.00"
+ },
+ {
+   "Month": "2012M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "110.09.00"
+ },
+ {
+   "Month": "2012M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "110.06.00"
+ },
+ {
+   "Month": "2012M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "162.08.00"
+ },
+ {
+   "Month": "2012M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "149.05.00"
+ },
+ {
+   "Month": "2012M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "105.02.00"
+ },
+ {
+   "Month": "2012M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "105.00.00"
+ },
+ {
+   "Month": "2012M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "165.04.00"
+ },
+ {
+   "Month": "2012M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "150.03.00"
+ },
+ {
+   "Month": "2012M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "110.06.00"
+ },
+ {
+   "Month": "2012M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "110.04.00"
+ },
+ {
+   "Month": "2012M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "169.07.00"
+ },
+ {
+   "Month": "2012M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "153.07.00"
+ },
+ {
+   "Month": "2012M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "117.09.00"
+ },
+ {
+   "Month": "2012M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "117.06.00"
+ },
+ {
+   "Month": "2012M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "173.07.00"
+ },
+ {
+   "Month": "2012M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "156.08.00"
+ },
+ {
+   "Month": "2012M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "117.02.00"
+ },
+ {
+   "Month": "2012M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "116.09.00"
+ },
+ {
+   "Month": "2012M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "170.02.00"
+ },
+ {
+   "Month": "2012M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "156.09.00"
+ },
+ {
+   "Month": "2012M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "117.07.00"
+ },
+ {
+   "Month": "2012M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "117.04.00"
+ },
+ {
+   "Month": "2012M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "162.08.00"
+ },
+ {
+   "Month": "2012M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "154.00.00"
+ },
+ {
+   "Month": "2012M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "112.04.00"
+ },
+ {
+   "Month": "2012M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "112.01.00"
+ },
+ {
+   "Month": "2012M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "159.05.00"
+ },
+ {
+   "Month": "2012M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "152.02.00"
+ },
+ {
+   "Month": "2012M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "109.00.00"
+ },
+ {
+   "Month": "2012M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "108.08.00"
+ },
+ {
+   "Month": "2012M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2012M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "161.02.00"
+ },
+ {
+   "Month": "2013M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "153.00.00"
+ },
+ {
+   "Month": "2013M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "112.00.00"
+ },
+ {
+   "Month": "2013M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "112.06.00"
+ },
+ {
+   "Month": "2013M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "164.02.00"
+ },
+ {
+   "Month": "2013M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "154.07.00"
+ },
+ {
+   "Month": "2013M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "114.01.00"
+ },
+ {
+   "Month": "2013M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "114.07.00"
+ },
+ {
+   "Month": "2013M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "165.09.00"
+ },
+ {
+   "Month": "2013M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "155.07.00"
+ },
+ {
+   "Month": "2013M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "112.07.00"
+ },
+ {
+   "Month": "2013M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "113.03.00"
+ },
+ {
+   "Month": "2013M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "165.07.00"
+ },
+ {
+   "Month": "2013M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "154.00.00"
+ },
+ {
+   "Month": "2013M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "108.07.00"
+ },
+ {
+   "Month": "2013M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "109.02.00"
+ },
+ {
+   "Month": "2013M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "160.05.00"
+ },
+ {
+   "Month": "2013M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "148.00.00"
+ },
+ {
+   "Month": "2013M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "108.01.00"
+ },
+ {
+   "Month": "2013M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "108.06.00"
+ },
+ {
+   "Month": "2013M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "162.08.00"
+ },
+ {
+   "Month": "2013M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "147.05.00"
+ },
+ {
+   "Month": "2013M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "107.04.00"
+ },
+ {
+   "Month": "2013M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "107.09.00"
+ },
+ {
+   "Month": "2013M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "165.06.00"
+ },
+ {
+   "Month": "2013M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "148.04.00"
+ },
+ {
+   "Month": "2013M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "111.09.00"
+ },
+ {
+   "Month": "2013M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "112.05.00"
+ },
+ {
+   "Month": "2013M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "165.02.00"
+ },
+ {
+   "Month": "2013M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "148.03.00"
+ },
+ {
+   "Month": "2013M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "111.00.00"
+ },
+ {
+   "Month": "2013M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "111.05.00"
+ },
+ {
+   "Month": "2013M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "165.09.00"
+ },
+ {
+   "Month": "2013M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "150.01.00"
+ },
+ {
+   "Month": "2013M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "113.06.00"
+ },
+ {
+   "Month": "2013M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "114.02.00"
+ },
+ {
+   "Month": "2013M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "162.01.00"
+ },
+ {
+   "Month": "2013M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "150.08.00"
+ },
+ {
+   "Month": "2013M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "109.09.00"
+ },
+ {
+   "Month": "2013M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "110.04.00"
+ },
+ {
+   "Month": "2013M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "158.06.00"
+ },
+ {
+   "Month": "2013M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "148.02.00"
+ },
+ {
+   "Month": "2013M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "107.06.00"
+ },
+ {
+   "Month": "2013M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "108.01.00"
+ },
+ {
+   "Month": "2013M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "159.02.00"
+ },
+ {
+   "Month": "2013M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "149.05.00"
+ },
+ {
+   "Month": "2013M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "108.03.00"
+ },
+ {
+   "Month": "2013M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "108.08.00"
+ },
+ {
+   "Month": "2013M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2013M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "163.01.00"
+ },
+ {
+   "Month": "2014M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "153.03.00"
+ },
+ {
+   "Month": "2014M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "105.02.00"
+ },
+ {
+   "Month": "2014M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "105.07.00"
+ },
+ {
+   "Month": "2014M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "160.07.00"
+ },
+ {
+   "Month": "2014M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "151.08.00"
+ },
+ {
+   "Month": "2014M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "105.05.00"
+ },
+ {
+   "Month": "2014M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "106.00.00"
+ },
+ {
+   "Month": "2014M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "159.08.00"
+ },
+ {
+   "Month": "2014M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "150.06.00"
+ },
+ {
+   "Month": "2014M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "102.00.00"
+ },
+ {
+   "Month": "2014M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "102.05.00"
+ },
+ {
+   "Month": "2014M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "162.07.00"
+ },
+ {
+   "Month": "2014M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "152.03.00"
+ },
+ {
+   "Month": "2014M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "103.05.00"
+ },
+ {
+   "Month": "2014M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "104.00.00"
+ },
+ {
+   "Month": "2014M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "161.08.00"
+ },
+ {
+   "Month": "2014M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "150.07.00"
+ },
+ {
+   "Month": "2014M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "104.01.00"
+ },
+ {
+   "Month": "2014M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "104.06.00"
+ },
+ {
+   "Month": "2014M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "162.00.00"
+ },
+ {
+   "Month": "2014M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "148.01.00"
+ },
+ {
+   "Month": "2014M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "104.00.00"
+ },
+ {
+   "Month": "2014M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "104.05.00"
+ },
+ {
+   "Month": "2014M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "166.02.00"
+ },
+ {
+   "Month": "2014M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "149.00.00"
+ },
+ {
+   "Month": "2014M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "104.02.00"
+ },
+ {
+   "Month": "2014M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "104.07.00"
+ },
+ {
+   "Month": "2014M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "165.05.00"
+ },
+ {
+   "Month": "2014M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "148.01.00"
+ },
+ {
+   "Month": "2014M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "105.00.00"
+ },
+ {
+   "Month": "2014M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "105.05.00"
+ },
+ {
+   "Month": "2014M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "162.04.00"
+ },
+ {
+   "Month": "2014M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "145.07.00"
+ },
+ {
+   "Month": "2014M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "104.03.00"
+ },
+ {
+   "Month": "2014M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "104.08.00"
+ },
+ {
+   "Month": "2014M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "159.05.00"
+ },
+ {
+   "Month": "2014M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "143.03.00"
+ },
+ {
+   "Month": "2014M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "100.02.00"
+ },
+ {
+   "Month": "2014M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "100.07.00"
+ },
+ {
+   "Month": "2014M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "152.01.00"
+ },
+ {
+   "Month": "2014M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "142.09.00"
+ },
+ {
+   "Month": "2014M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "98.08.00"
+ },
+ {
+   "Month": "2014M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "99.03.00"
+ },
+ {
+   "Month": "2014M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.01.00"
+ },
+ {
+   "Month": "2014M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "135.01.00"
+ },
+ {
+   "Month": "2014M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "86.04.00"
+ },
+ {
+   "Month": "2014M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "86.08.00"
+ },
+ {
+   "Month": "2014M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2014M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "136.07.00"
+ },
+ {
+   "Month": "2015M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "127.09.00"
+ },
+ {
+   "Month": "2015M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "80.05.00"
+ },
+ {
+   "Month": "2015M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "80.05.00"
+ },
+ {
+   "Month": "2015M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "138.00.00"
+ },
+ {
+   "Month": "2015M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "128.05.00"
+ },
+ {
+   "Month": "2015M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "92.06.00"
+ },
+ {
+   "Month": "2015M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "92.06.00"
+ },
+ {
+   "Month": "2015M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "145.01.00"
+ },
+ {
+   "Month": "2015M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "135.01.00"
+ },
+ {
+   "Month": "2015M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "92.01.00"
+ },
+ {
+   "Month": "2015M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "92.01.00"
+ },
+ {
+   "Month": "2015M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "148.09.00"
+ },
+ {
+   "Month": "2015M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "135.03.00"
+ },
+ {
+   "Month": "2015M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "93.05.00"
+ },
+ {
+   "Month": "2015M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "93.05.00"
+ },
+ {
+   "Month": "2015M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "153.01.00"
+ },
+ {
+   "Month": "2015M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "134.01.00"
+ },
+ {
+   "Month": "2015M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "95.07.00"
+ },
+ {
+   "Month": "2015M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "95.07.00"
+ },
+ {
+   "Month": "2015M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "155.02.00"
+ },
+ {
+   "Month": "2015M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "135.06.00"
+ },
+ {
+   "Month": "2015M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "90.03.00"
+ },
+ {
+   "Month": "2015M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "90.03.00"
+ },
+ {
+   "Month": "2015M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "156.03.00"
+ },
+ {
+   "Month": "2015M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "135.04.00"
+ },
+ {
+   "Month": "2015M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "84.03.00"
+ },
+ {
+   "Month": "2015M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "84.03.00"
+ },
+ {
+   "Month": "2015M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "152.04.00"
+ },
+ {
+   "Month": "2015M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "129.05.00"
+ },
+ {
+   "Month": "2015M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "80.00.00"
+ },
+ {
+   "Month": "2015M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "80.00.00"
+ },
+ {
+   "Month": "2015M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.04.00"
+ },
+ {
+   "Month": "2015M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "123.02.00"
+ },
+ {
+   "Month": "2015M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "79.00.00"
+ },
+ {
+   "Month": "2015M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "79.00.00"
+ },
+ {
+   "Month": "2015M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "140.04.00"
+ },
+ {
+   "Month": "2015M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "123.06.00"
+ },
+ {
+   "Month": "2015M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "77.06.00"
+ },
+ {
+   "Month": "2015M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "77.06.00"
+ },
+ {
+   "Month": "2015M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "140.09.00"
+ },
+ {
+   "Month": "2015M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "124.05.00"
+ },
+ {
+   "Month": "2015M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "78.01.00"
+ },
+ {
+   "Month": "2015M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "78.01.00"
+ },
+ {
+   "Month": "2015M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "137.00.00"
+ },
+ {
+   "Month": "2015M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "120.06.00"
+ },
+ {
+   "Month": "2015M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "66.04.00"
+ },
+ {
+   "Month": "2015M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "66.04.00"
+ },
+ {
+   "Month": "2015M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2015M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "135.02.00"
+ },
+ {
+   "Month": "2016M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "115.09.00"
+ },
+ {
+   "Month": "2016M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "65.02.00"
+ },
+ {
+   "Month": "2016M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "65.00.00"
+ },
+ {
+   "Month": "2016M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "130.04.00"
+ },
+ {
+   "Month": "2016M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "110.07.00"
+ },
+ {
+   "Month": "2016M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "64.03.00"
+ },
+ {
+   "Month": "2016M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "64.01.00"
+ },
+ {
+   "Month": "2016M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "131.02.00"
+ },
+ {
+   "Month": "2016M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "113.06.00"
+ },
+ {
+   "Month": "2016M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "73.00.00"
+ },
+ {
+   "Month": "2016M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "72.08.00"
+ },
+ {
+   "Month": "2016M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "133.05.00"
+ },
+ {
+   "Month": "2016M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "113.01.00"
+ },
+ {
+   "Month": "2016M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "73.01.00"
+ },
+ {
+   "Month": "2016M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "72.09.00"
+ },
+ {
+   "Month": "2016M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "138.00.00"
+ },
+ {
+   "Month": "2016M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "116.03.00"
+ },
+ {
+   "Month": "2016M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "76.02.00"
+ },
+ {
+   "Month": "2016M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "75.09.00"
+ },
+ {
+   "Month": "2016M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "142.08.00"
+ },
+ {
+   "Month": "2016M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "122.01.00"
+ },
+ {
+   "Month": "2016M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "81.05.00"
+ },
+ {
+   "Month": "2016M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "81.02.00"
+ },
+ {
+   "Month": "2016M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "138.02.00"
+ },
+ {
+   "Month": "2016M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "118.00.00"
+ },
+ {
+   "Month": "2016M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "76.07.00"
+ },
+ {
+   "Month": "2016M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "76.04.00"
+ },
+ {
+   "Month": "2016M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "133.04.00"
+ },
+ {
+   "Month": "2016M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "113.06.00"
+ },
+ {
+   "Month": "2016M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "76.02.00"
+ },
+ {
+   "Month": "2016M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "75.09.00"
+ },
+ {
+   "Month": "2016M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "138.03.00"
+ },
+ {
+   "Month": "2016M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "119.00.00"
+ },
+ {
+   "Month": "2016M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "77.07.00"
+ },
+ {
+   "Month": "2016M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "77.04.00"
+ },
+ {
+   "Month": "2016M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "141.05.00"
+ },
+ {
+   "Month": "2016M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "124.00.00"
+ },
+ {
+   "Month": "2016M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "83.04.00"
+ },
+ {
+   "Month": "2016M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "83.01.00"
+ },
+ {
+   "Month": "2016M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "138.00.00"
+ },
+ {
+   "Month": "2016M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "125.07.00"
+ },
+ {
+   "Month": "2016M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "79.00.00"
+ },
+ {
+   "Month": "2016M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "78.07.00"
+ },
+ {
+   "Month": "2016M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.00.00"
+ },
+ {
+   "Month": "2016M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "132.04.00"
+ },
+ {
+   "Month": "2016M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "88.03.00"
+ },
+ {
+   "Month": "2016M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "88.00.00"
+ },
+ {
+   "Month": "2016M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2016M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "147.05.00"
+ },
+ {
+   "Month": "2017M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "136.01.00"
+ },
+ {
+   "Month": "2017M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "90.00.00"
+ },
+ {
+   "Month": "2017M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "89.07.00"
+ },
+ {
+   "Month": "2017M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "150.05.00"
+ },
+ {
+   "Month": "2017M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "136.05.00"
+ },
+ {
+   "Month": "2017M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "90.01.00"
+ },
+ {
+   "Month": "2017M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "89.08.00"
+ },
+ {
+   "Month": "2017M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "146.03.00"
+ },
+ {
+   "Month": "2017M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "132.01.00"
+ },
+ {
+   "Month": "2017M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "87.03.00"
+ },
+ {
+   "Month": "2017M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "87.00.00"
+ },
+ {
+   "Month": "2017M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "147.01.00"
+ },
+ {
+   "Month": "2017M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "128.05.00"
+ },
+ {
+   "Month": "2017M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "91.00.00"
+ },
+ {
+   "Month": "2017M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "90.07.00"
+ },
+ {
+   "Month": "2017M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "145.06.00"
+ },
+ {
+   "Month": "2017M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "125.01.00"
+ },
+ {
+   "Month": "2017M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "85.02.00"
+ },
+ {
+   "Month": "2017M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "84.09.00"
+ },
+ {
+   "Month": "2017M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "146.01.00"
+ },
+ {
+   "Month": "2017M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "125.02.00"
+ },
+ {
+   "Month": "2017M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "82.02.00"
+ },
+ {
+   "Month": "2017M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "81.09.00"
+ },
+ {
+   "Month": "2017M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.06.00"
+ },
+ {
+   "Month": "2017M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "124.04.00"
+ },
+ {
+   "Month": "2017M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "82.04.00"
+ },
+ {
+   "Month": "2017M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "82.01.00"
+ },
+ {
+   "Month": "2017M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.06.00"
+ },
+ {
+   "Month": "2017M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "125.00.00"
+ },
+ {
+   "Month": "2017M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "84.08.00"
+ },
+ {
+   "Month": "2017M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "84.05.00"
+ },
+ {
+   "Month": "2017M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "145.08.00"
+ },
+ {
+   "Month": "2017M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "126.06.00"
+ },
+ {
+   "Month": "2017M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "87.09.00"
+ },
+ {
+   "Month": "2017M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "87.06.00"
+ },
+ {
+   "Month": "2017M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.02.00"
+ },
+ {
+   "Month": "2017M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "127.01.00"
+ },
+ {
+   "Month": "2017M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "88.09.00"
+ },
+ {
+   "Month": "2017M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "88.06.00"
+ },
+ {
+   "Month": "2017M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "149.03.00"
+ },
+ {
+   "Month": "2017M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "134.08.00"
+ },
+ {
+   "Month": "2017M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "93.01.00"
+ },
+ {
+   "Month": "2017M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "92.08.00"
+ },
+ {
+   "Month": "2017M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "142.06.00"
+ },
+ {
+   "Month": "2017M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "130.05.00"
+ },
+ {
+   "Month": "2017M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "92.01.00"
+ },
+ {
+   "Month": "2017M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "91.08.00"
+ },
+ {
+   "Month": "2017M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2017M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "146.04.00"
+ },
+ {
+   "Month": "2018M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "135.01.00"
+ },
+ {
+   "Month": "2018M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "98.02.00"
+ },
+ {
+   "Month": "2018M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "97.09.00"
+ },
+ {
+   "Month": "2018M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.05.00"
+ },
+ {
+   "Month": "2018M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "132.06.00"
+ },
+ {
+   "Month": "2018M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "91.05.00"
+ },
+ {
+   "Month": "2018M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "91.02.00"
+ },
+ {
+   "Month": "2018M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.03.00"
+ },
+ {
+   "Month": "2018M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "131.08.00"
+ },
+ {
+   "Month": "2018M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "91.02.00"
+ },
+ {
+   "Month": "2018M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "90.09.00"
+ },
+ {
+   "Month": "2018M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.07.00"
+ },
+ {
+   "Month": "2018M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "130.08.00"
+ },
+ {
+   "Month": "2018M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "97.04.00"
+ },
+ {
+   "Month": "2018M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "97.01.00"
+ },
+ {
+   "Month": "2018M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "150.02.00"
+ },
+ {
+   "Month": "2018M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "134.06.00"
+ },
+ {
+   "Month": "2018M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "101.09.00"
+ },
+ {
+   "Month": "2018M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "101.06.00"
+ },
+ {
+   "Month": "2018M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "155.04.00"
+ },
+ {
+   "Month": "2018M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "139.07.00"
+ },
+ {
+   "Month": "2018M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "102.03.00"
+ },
+ {
+   "Month": "2018M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "102.00.00"
+ },
+ {
+   "Month": "2018M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "151.06.00"
+ },
+ {
+   "Month": "2018M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "135.06.00"
+ },
+ {
+   "Month": "2018M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "101.01.00"
+ },
+ {
+   "Month": "2018M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "100.08.00"
+ },
+ {
+   "Month": "2018M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "157.00.00"
+ },
+ {
+   "Month": "2018M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "139.06.00"
+ },
+ {
+   "Month": "2018M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "103.03.00"
+ },
+ {
+   "Month": "2018M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "103.00.00"
+ },
+ {
+   "Month": "2018M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "157.08.00"
+ },
+ {
+   "Month": "2018M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "140.03.00"
+ },
+ {
+   "Month": "2018M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "104.01.00"
+ },
+ {
+   "Month": "2018M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "103.08.00"
+ },
+ {
+   "Month": "2018M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "153.08.00"
+ },
+ {
+   "Month": "2018M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "144.05.00"
+ },
+ {
+   "Month": "2018M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "107.06.00"
+ },
+ {
+   "Month": "2018M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "107.02.00"
+ },
+ {
+   "Month": "2018M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "155.00.00"
+ },
+ {
+   "Month": "2018M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "154.06.00"
+ },
+ {
+   "Month": "2018M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "103.03.00"
+ },
+ {
+   "Month": "2018M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "103.00.00"
+ },
+ {
+   "Month": "2018M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "148.00.00"
+ },
+ {
+   "Month": "2018M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "147.00.00"
+ },
+ {
+   "Month": "2018M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "93.00.00"
+ },
+ {
+   "Month": "2018M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "92.07.00"
+ },
+ {
+   "Month": "2018M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2018M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "144.00.00"
+ },
+ {
+   "Month": "2019M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "139.00.00"
+ },
+ {
+   "Month": "2019M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "93.00.00"
+ },
+ {
+   "Month": "2019M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "92.03.00"
+ },
+ {
+   "Month": "2019M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.00.00"
+ },
+ {
+   "Month": "2019M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "140.00.00"
+ },
+ {
+   "Month": "2019M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "97.00.00"
+ },
+ {
+   "Month": "2019M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "96.02.00"
+ },
+ {
+   "Month": "2019M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "148.00.00"
+ },
+ {
+   "Month": "2019M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "144.00.00"
+ },
+ {
+   "Month": "2019M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "100.00.00"
+ },
+ {
+   "Month": "2019M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "99.02.00"
+ },
+ {
+   "Month": "2019M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "156.00.00"
+ },
+ {
+   "Month": "2019M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "142.00.00"
+ },
+ {
+   "Month": "2019M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "101.00.00"
+ },
+ {
+   "Month": "2019M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "100.02.00"
+ },
+ {
+   "Month": "2019M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "159.00.00"
+ },
+ {
+   "Month": "2019M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "142.00.00"
+ },
+ {
+   "Month": "2019M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "103.00.00"
+ },
+ {
+   "Month": "2019M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "102.02.00"
+ },
+ {
+   "Month": "2019M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "158.00.00"
+ },
+ {
+   "Month": "2019M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "140.00.00"
+ },
+ {
+   "Month": "2019M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "95.00.00"
+ },
+ {
+   "Month": "2019M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "94.02.00"
+ },
+ {
+   "Month": "2019M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "157.00.00"
+ },
+ {
+   "Month": "2019M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "138.00.00"
+ },
+ {
+   "Month": "2019M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "98.00.00"
+ },
+ {
+   "Month": "2019M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "97.02.00"
+ },
+ {
+   "Month": "2019M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "154.00.00"
+ },
+ {
+   "Month": "2019M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "136.00.00"
+ },
+ {
+   "Month": "2019M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "95.00.00"
+ },
+ {
+   "Month": "2019M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "94.02.00"
+ },
+ {
+   "Month": "2019M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "154.00.00"
+ },
+ {
+   "Month": "2019M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "140.00.00"
+ },
+ {
+   "Month": "2019M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "99.00.00"
+ },
+ {
+   "Month": "2019M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "98.02.00"
+ },
+ {
+   "Month": "2019M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "153.00.00"
+ },
+ {
+   "Month": "2019M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "142.00.00"
+ },
+ {
+   "Month": "2019M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "99.00.00"
+ },
+ {
+   "Month": "2019M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "98.02.00"
+ },
+ {
+   "Month": "2019M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "153.00.00"
+ },
+ {
+   "Month": "2019M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "142.00.00"
+ },
+ {
+   "Month": "2019M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "98.00.00"
+ },
+ {
+   "Month": "2019M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "97.02.00"
+ },
+ {
+   "Month": "2019M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "153.00.00"
+ },
+ {
+   "Month": "2019M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "143.00.00"
+ },
+ {
+   "Month": "2019M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "99.00.00"
+ },
+ {
+   "Month": "2019M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "98.02.00"
+ },
+ {
+   "Month": "2019M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2019M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "155.00.00"
+ },
+ {
+   "Month": "2020M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "146.00.00"
+ },
+ {
+   "Month": "2020M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "99.00.00"
+ },
+ {
+   "Month": "2020M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "98.09.00"
+ },
+ {
+   "Month": "2020M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "151.00.00"
+ },
+ {
+   "Month": "2020M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "139.00.00"
+ },
+ {
+   "Month": "2020M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "91.00.00"
+ },
+ {
+   "Month": "2020M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "90.09.00"
+ },
+ {
+   "Month": "2020M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.00.00"
+ },
+ {
+   "Month": "2020M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "130.00.00"
+ },
+ {
+   "Month": "2020M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "77.00.00"
+ },
+ {
+   "Month": "2020M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "76.09.00"
+ },
+ {
+   "Month": "2020M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "133.00.00"
+ },
+ {
+   "Month": "2020M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "123.00.00"
+ },
+ {
+   "Month": "2020M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "70.00.00"
+ },
+ {
+   "Month": "2020M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "69.09.00"
+ },
+ {
+   "Month": "2020M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "128.00.00"
+ },
+ {
+   "Month": "2020M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "116.00.00"
+ },
+ {
+   "Month": "2020M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "60.00.00"
+ },
+ {
+   "Month": "2020M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "60.00.00"
+ },
+ {
+   "Month": "2020M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "135.00.00"
+ },
+ {
+   "Month": "2020M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "118.00.00"
+ },
+ {
+   "Month": "2020M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "74.00.00"
+ },
+ {
+   "Month": "2020M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "73.09.00"
+ },
+ {
+   "Month": "2020M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "140.00.00"
+ },
+ {
+   "Month": "2020M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "122.00.00"
+ },
+ {
+   "Month": "2020M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "77.00.00"
+ },
+ {
+   "Month": "2020M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "76.09.00"
+ },
+ {
+   "Month": "2020M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "145.00.00"
+ },
+ {
+   "Month": "2020M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "128.00.00"
+ },
+ {
+   "Month": "2020M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "76.00.00"
+ },
+ {
+   "Month": "2020M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "75.09.00"
+ },
+ {
+   "Month": "2020M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "145.00.00"
+ },
+ {
+   "Month": "2020M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "125.00.00"
+ },
+ {
+   "Month": "2020M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "71.00.00"
+ },
+ {
+   "Month": "2020M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "70.09.00"
+ },
+ {
+   "Month": "2020M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "145.00.00"
+ },
+ {
+   "Month": "2020M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "124.00.00"
+ },
+ {
+   "Month": "2020M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "72.00.00"
+ },
+ {
+   "Month": "2020M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "71.09.00"
+ },
+ {
+   "Month": "2020M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "138.00.00"
+ },
+ {
+   "Month": "2020M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "124.00.00"
+ },
+ {
+   "Month": "2020M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "72.00.00"
+ },
+ {
+   "Month": "2020M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "71.09.00"
+ },
+ {
+   "Month": "2020M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "143.00.00"
+ },
+ {
+   "Month": "2020M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "130.00.00"
+ },
+ {
+   "Month": "2020M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "77.00.00"
+ },
+ {
+   "Month": "2020M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "76.09.00"
+ },
+ {
+   "Month": "2020M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2020M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "148.00.00"
+ },
+ {
+   "Month": "2021M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "138.00.00"
+ },
+ {
+   "Month": "2021M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "86.00.00"
+ },
+ {
+   "Month": "2021M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "85.09.00"
+ },
+ {
+   "Month": "2021M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "155.00.00"
+ },
+ {
+   "Month": "2021M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "144.00.00"
+ },
+ {
+   "Month": "2021M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "92.00.00"
+ },
+ {
+   "Month": "2021M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "91.09.00"
+ },
+ {
+   "Month": "2021M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "161.00.00"
+ },
+ {
+   "Month": "2021M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "150.00.00"
+ },
+ {
+   "Month": "2021M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "96.00.00"
+ },
+ {
+   "Month": "2021M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "95.09.00"
+ },
+ {
+   "Month": "2021M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "164.00.00"
+ },
+ {
+   "Month": "2021M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "150.00.00"
+ },
+ {
+   "Month": "2021M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "93.00.00"
+ },
+ {
+   "Month": "2021M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "92.09.00"
+ },
+ {
+   "Month": "2021M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "166.00.00"
+ },
+ {
+   "Month": "2021M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "150.00.00"
+ },
+ {
+   "Month": "2021M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "97.00.00"
+ },
+ {
+   "Month": "2021M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "96.09.00"
+ },
+ {
+   "Month": "2021M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "164.00.00"
+ },
+ {
+   "Month": "2021M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "149.00.00"
+ },
+ {
+   "Month": "2021M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "99.00.00"
+ },
+ {
+   "Month": "2021M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "98.09.00"
+ },
+ {
+   "Month": "2021M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "170.00.00"
+ },
+ {
+   "Month": "2021M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "152.00.00"
+ },
+ {
+   "Month": "2021M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "101.00.00"
+ },
+ {
+   "Month": "2021M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "100.09.00"
+ },
+ {
+   "Month": "2021M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "173.00.00"
+ },
+ {
+   "Month": "2021M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "153.00.00"
+ },
+ {
+   "Month": "2021M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "101.00.00"
+ },
+ {
+   "Month": "2021M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "100.09.00"
+ },
+ {
+   "Month": "2021M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "172.00.00"
+ },
+ {
+   "Month": "2021M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "152.00.00"
+ },
+ {
+   "Month": "2021M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "103.00.00"
+ },
+ {
+   "Month": "2021M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "102.09.00"
+ },
+ {
+   "Month": "2021M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "180.00.00"
+ },
+ {
+   "Month": "2021M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "163.00.00"
+ },
+ {
+   "Month": "2021M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "114.00.00"
+ },
+ {
+   "Month": "2021M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "113.09.00"
+ },
+ {
+   "Month": "2021M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "189.00.00"
+ },
+ {
+   "Month": "2021M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "170.00.00"
+ },
+ {
+   "Month": "2021M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "115.00.00"
+ },
+ {
+   "Month": "2021M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "114.09.00"
+ },
+ {
+   "Month": "2021M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "182.00.00"
+ },
+ {
+   "Month": "2021M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "167.00.00"
+ },
+ {
+   "Month": "2021M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "111.00.00"
+ },
+ {
+   "Month": "2021M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "110.09.00"
+ },
+ {
+   "Month": "2021M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2021M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M01",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "188.00.00"
+ },
+ {
+   "Month": "2022M01",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "178.00.00"
+ },
+ {
+   "Month": "2022M01",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "118.00.00"
+ },
+ {
+   "Month": "2022M01",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "117.09.00"
+ },
+ {
+   "Month": "2022M01",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M01",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M02",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "194.00.00"
+ },
+ {
+   "Month": "2022M02",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "187.00.00"
+ },
+ {
+   "Month": "2022M02",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "129.00.00"
+ },
+ {
+   "Month": "2022M02",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "128.09.00"
+ },
+ {
+   "Month": "2022M02",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M02",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M03",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "223.00.00"
+ },
+ {
+   "Month": "2022M03",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "233.00.00"
+ },
+ {
+   "Month": "2022M03",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "206.00.00"
+ },
+ {
+   "Month": "2022M03",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "205.08.00"
+ },
+ {
+   "Month": "2022M03",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M03",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M04",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "217.00.00"
+ },
+ {
+   "Month": "2022M04",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "222.00.00"
+ },
+ {
+   "Month": "2022M04",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "159.00.00"
+ },
+ {
+   "Month": "2022M04",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "158.09.00"
+ },
+ {
+   "Month": "2022M04",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M04",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M05",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "230.00.00"
+ },
+ {
+   "Month": "2022M05",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "227.00.00"
+ },
+ {
+   "Month": "2022M05",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "174.00.00"
+ },
+ {
+   "Month": "2022M05",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "173.09.00"
+ },
+ {
+   "Month": "2022M05",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M05",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M06",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "257.00.00"
+ },
+ {
+   "Month": "2022M06",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "244.00.00"
+ },
+ {
+   "Month": "2022M06",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "195.00.00"
+ },
+ {
+   "Month": "2022M06",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "194.08.00"
+ },
+ {
+   "Month": "2022M06",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M06",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M07",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "233.00.00"
+ },
+ {
+   "Month": "2022M07",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "227.00.00"
+ },
+ {
+   "Month": "2022M07",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "178.00.00"
+ },
+ {
+   "Month": "2022M07",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "177.09.00"
+ },
+ {
+   "Month": "2022M07",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M07",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M08",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "214.00.00"
+ },
+ {
+   "Month": "2022M08",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "209.00.00"
+ },
+ {
+   "Month": "2022M08",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "162.00.00"
+ },
+ {
+   "Month": "2022M08",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "161.09.00"
+ },
+ {
+   "Month": "2022M08",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M08",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M09",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "207.00.00"
+ },
+ {
+   "Month": "2022M09",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "216.00.00"
+ },
+ {
+   "Month": "2022M09",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "173.00.00"
+ },
+ {
+   "Month": "2022M09",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "172.09.00"
+ },
+ {
+   "Month": "2022M09",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M09",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M10",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "207.00.00"
+ },
+ {
+   "Month": "2022M10",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "217.00.00"
+ },
+ {
+   "Month": "2022M10",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "193.00.00"
+ },
+ {
+   "Month": "2022M10",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "192.08.00"
+ },
+ {
+   "Month": "2022M10",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M10",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M11",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "207.00.00"
+ },
+ {
+   "Month": "2022M11",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "228.00.00"
+ },
+ {
+   "Month": "2022M11",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "180.00.00"
+ },
+ {
+   "Month": "2022M11",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "179.09.00"
+ },
+ {
+   "Month": "2022M11",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M11",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M12",
+   "Fuel": "Motor Gasoline 95 E 10, c/l",
+   "Price": "187.00.00"
+ },
+ {
+   "Month": "2022M12",
+   "Fuel": "Diesel fuel, c/l",
+   "Price": "198.00.00"
+ },
+ {
+   "Month": "2022M12",
+   "Fuel": "Light fuel oil, c/l",
+   "Price": "144.00.00"
+ },
+ {
+   "Month": "2022M12",
+   "Fuel": "Light fuel oil, eur/MWh",
+   "Price": "143.09.00"
+ },
+ {
+   "Month": "2022M12",
+   "Fuel": "Heavy fuel oil, c/kg (2000-2010)",
+   "Price": "."
+ },
+ {
+   "Month": "2022M12",
+   "Fuel": "Heavy fuel oil, eur/MWh (2000-2010)",
+   "Price": "."
+ }
+]
