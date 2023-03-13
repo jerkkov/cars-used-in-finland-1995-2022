@@ -13,6 +13,8 @@ class PowerSource(str, Enum):
     DIESEL = "Diesel"
     OVERALL = "Overall"
 
+DEFAULT_AREA = "MA1 MANNER0SUOMI"
+
 f = open("cars-in-finland-1995-2022.json", encoding="utf-8")
 data = json.load(f)
 
@@ -41,27 +43,20 @@ def get_power_source_values(list: list, power_source_name: PowerSource):
     return power_source_values
 
 
-
-selected_area = 'MA1 MANNER0SUOMI'
-
-def areas_handler(attr, old, new):
-    print("Previous label: " + old)
-    print("Updated label: " + new)
-    selected_area = attr
-
 # ALL -> MA1 MANNER0SUOMI
 areas = get_areas(data)
 
 # selected_area = auto_complete_input.value
-years = get_years(data[selected_area])
-gasoline = get_power_source_values(data[selected_area], PowerSource.GASOLINE)
-gas = get_power_source_values(data[selected_area], PowerSource.GAS)
-electric = get_power_source_values(data[selected_area], PowerSource.ELECTRIC)
-hydrogen = get_power_source_values(data[selected_area], PowerSource.HYDROGEN)
-diesel = get_power_source_values(data[selected_area], PowerSource.DIESEL)
-overall = get_power_source_values(data[selected_area], PowerSource.OVERALL)
+years = get_years(data[DEFAULT_AREA])
+gasoline = get_power_source_values(data[DEFAULT_AREA], PowerSource.GASOLINE)
+gas = get_power_source_values(data[DEFAULT_AREA], PowerSource.GAS)
+electric = get_power_source_values(data[DEFAULT_AREA], PowerSource.ELECTRIC)
+hydrogen = get_power_source_values(data[DEFAULT_AREA], PowerSource.HYDROGEN)
+diesel = get_power_source_values(data[DEFAULT_AREA], PowerSource.DIESEL)
+overall = get_power_source_values(data[DEFAULT_AREA], PowerSource.OVERALL)
 
-source = ColumnDataSource(data=dict(x=[2,3], y=[3,2]))
+auto_complete_input = AutocompleteInput(title="Enter a city:", completions=areas, value="MA1 MANNER0SUOMI")
+source = ColumnDataSource(data=dict(x=years, y=electric))
 # view = CDSView(filter=IndexFilter([0, 2, 4]))
 
 # Hover over graph
@@ -118,7 +113,6 @@ callback = CustomJS(args=dict(source=source, years=years, areas=areas, newData=d
 #     console.log('value', cb_obj.value);
 #     """))
 
-auto_complete_input = AutocompleteInput(title="Enter a city:", completions=areas)
 auto_complete_input.js_on_change('value', callback)
 
 
