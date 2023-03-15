@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from bokeh.layouts import column
+from bokeh.layouts import column, row
 from bokeh.plotting import ColumnDataSource, figure, show
-from bokeh.models import AutocompleteInput, Div, CustomJS, MultiChoice, CustomJSFilter, CDSView
+from bokeh.models import AutocompleteInput, Div, CustomJS, CheckboxGroup, CustomJSFilter, CDSView
 from enum import Enum
 import json
 
@@ -12,8 +12,35 @@ class PowerSource(str, Enum):
     HYDROGEN = "Hydrogen"
     DIESEL = "Diesel"
     OVERALL = "Overall"
+class LineColors(str, Enum): 
+    BLUE = "#0b84a5"
+    YELLOW = "#f6c85f"
+    PURPLE = "#6f4e7c"
+    GREEN = "#9dd866"
+    ORANGE = "#ca472f"
+    CYAN = "#8dddd0"
+
+COLORS = [
+    "#0b84a5",
+    "#f6c85f",
+    "#6f4e7c",
+    "#9dd866",
+    "#ca472f",
+    "#8dddd0"]
 
 DEFAULT_AREA = "MA1 MANNER0SUOMI"
+TOOLTIPS = [
+    ("index", "$index"),
+    ("(Year,Power Source)", "($x, $y)"),
+]
+TOOLS="hover,pan,wheel_zoom,zoom_in,zoom_out,box_zoom"
+LABELS = [PowerSource.OVERALL,
+          PowerSource.ELECTRIC,
+          PowerSource.GASOLINE,
+          PowerSource.GAS,
+          PowerSource.DIESEL,
+          PowerSource.HYDROGEN]
+
 
 f = open("cars-in-finland-1995-2022.json", encoding="utf-8")
 data = json.load(f)
@@ -55,24 +82,38 @@ hydrogen = get_power_source_values(data[DEFAULT_AREA], PowerSource.HYDROGEN)
 diesel = get_power_source_values(data[DEFAULT_AREA], PowerSource.DIESEL)
 overall = get_power_source_values(data[DEFAULT_AREA], PowerSource.OVERALL)
 
-auto_complete_input = AutocompleteInput(title="Enter a city:", completions=areas, value="MA1 MANNER0SUOMI")
-source = ColumnDataSource(data=dict(x=years, y=electric))
+auto_complete_input = AutocompleteInput(title="Enter a city:",
+                                        completions=areas,
+                                        value="MA1 MANNER0SUOMI",
+                                        case_sensitive=False)
+
+source = ColumnDataSource(data=dict(x=years,
+                                    # o=overall,
+                                    y=electric))
+                                    # g=gasoline,
+                                    # s=gas,
+                                    # h=hydrogen,
+                                    # d=diesel ))
 # view = CDSView(filter=IndexFilter([0, 2, 4]))
 
-# Hover over graph
-TOOLTIPS = [
-    ("index", "$index"),
-    ("(Year,Power Source)", "($x, $y)"),
-]
+#Checkbox labels
+checkbox_group = CheckboxGroup(labels=LABELS, active=[0, 1])
+checkbox_group.js_on_change('active', CustomJS(code="""
+    console.log('checkbox_group: active=' + this.active, this.toString())
+"""))
 
-TOOLS="hover,pan,wheel_zoom,zoom_in,zoom_out,box_zoom"
 
 # create a new plot with a title and axis labels
-p = figure(title="Electric cars in use from 1995 to 2022", x_axis_label="Years", y_axis_label="y", tools=TOOLS, tooltips=TOOLTIPS)
+p = figure(title="Electric cars in use from 1995 to 2022",
+           x_axis_label="Years", y_axis_label="Amount",
+           tools=TOOLS,
+           tooltips=TOOLTIPS,
+           toolbar_location="below")
 
 # add a line renderer with legend and line thickness to the plot
 
-p.line('x', 'y', source=source, legend_label="Electric cars", line_width=2)
+# p.multi_line('y', 'o', 'e', source=source, legend_label="Power Source", line_width=2)
+p.line('x', 'y', source=source, legend_label="Electric", line_width=2)
 
 callback = CustomJS(args=dict(source=source, years=years, areas=areas, newData=data), code="""
   console.log('areas', areas)
@@ -83,8 +124,8 @@ callback = CustomJS(args=dict(source=source, years=years, areas=areas, newData=d
   
   const getPowerSource = (arr, areaName, query) => {
     const newArr = Object.entries(arr[areaName]);
-    const filtered = newArr.filter((item) => item[0].includes(query));
-    return filtered;
+    const filtered = newArr.filter((item) => item[0].toLocaleLowerCase().includes(query.toLocaleLowerCase()));
+    return filtered.reverse();
   };
     const x = years;
     console.log('x', x,)
@@ -127,7 +168,8 @@ auto_complete_input.js_on_change('value', callback)
 f.close()
 
 # create layout
-layout = column(auto_complete_input, p)
+layout = row(column(auto_complete_input, p), checkbox_group)
+
 
 # show the results
 show(layout)
