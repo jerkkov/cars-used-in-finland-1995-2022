@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 from bokeh.layouts import column, row
 from bokeh.plotting import ColumnDataSource, figure, show
-from bokeh.models import AutocompleteInput, Div, CustomJS, CheckboxGroup, CustomJSFilter, CDSView
+from bokeh.models import AutocompleteInput, CustomJS, CheckboxGroup
 from enum import Enum
 import json
-
 class PowerSource(str, Enum):
     GAS = "Gas"
     ELECTRIC = "Electric"
@@ -18,22 +17,19 @@ class LineColors(str, Enum):
     PURPLE = "#6f4e7c"
     GREEN = "#9dd866"
     ORANGE = "#ca472f"
-    CYAN = "#8dddd0"
+    CYAN = "#8dddd0",
+    AMMONITE = "#ddd8cf",
 
-COLORS = [
-    "#0b84a5",
-    "#f6c85f",
-    "#6f4e7c",
-    "#9dd866",
-    "#ca472f",
-    "#8dddd0"]
 
 DEFAULT_AREA = "MA1 MANNER0SUOMI"
+
 TOOLTIPS = [
     ("index", "$index"),
     ("(Year,Power Source)", "($x, $y)"),
 ]
+
 TOOLS="hover,pan,wheel_zoom,zoom_in,zoom_out,box_zoom"
+
 LABELS = [PowerSource.OVERALL,
           PowerSource.ELECTRIC,
           PowerSource.GASOLINE,
@@ -41,9 +37,9 @@ LABELS = [PowerSource.OVERALL,
           PowerSource.DIESEL,
           PowerSource.HYDROGEN]
 
-
 f = open("cars-in-finland-1995-2022.json", encoding="utf-8")
 data = json.load(f)
+f.close()
 
 def get_areas(list: list):
     areas = []
@@ -70,10 +66,8 @@ def get_power_source_values(list: list, power_source_name: PowerSource):
     return power_source_values
 
 
-# ALL -> MA1 MANNER0SUOMI
 areas = get_areas(data)
 
-# selected_area = auto_complete_input.value
 years = get_years(data[DEFAULT_AREA])
 gasoline = get_power_source_values(data[DEFAULT_AREA], PowerSource.GASOLINE)
 gas = get_power_source_values(data[DEFAULT_AREA], PowerSource.GAS)
@@ -84,94 +78,82 @@ overall = get_power_source_values(data[DEFAULT_AREA], PowerSource.OVERALL)
 
 auto_complete_input = AutocompleteInput(title="Enter a city:",
                                         completions=areas,
-                                        value="MA1 MANNER0SUOMI",
+                                        value=DEFAULT_AREA,
                                         case_sensitive=False)
 
-source = ColumnDataSource(data=dict(x=years,
-                                    # o=overall,
-                                    y=electric))
-                                    # g=gasoline,
-                                    # s=gas,
-                                    # h=hydrogen,
-                                    # d=diesel ))
-# view = CDSView(filter=IndexFilter([0, 2, 4]))
+source = ColumnDataSource(data=dict(y=years,
+                                    o=overall,
+                                    e=electric,
+                                    ga=gasoline,
+                                    d=diesel,
+                                    g=gas,
+                                    h=hydrogen
+                                    ))
 
-#Checkbox labels
-checkbox_group = CheckboxGroup(labels=LABELS, active=[0, 1])
-checkbox_group.js_on_change('active', CustomJS(code="""
-    console.log('checkbox_group: active=' + this.active, this.toString())
-"""))
-
-
-# create a new plot with a title and axis labels
-p = figure(title="Electric cars in use from 1995 to 2022",
-           x_axis_label="Years", y_axis_label="Amount",
+p = figure(title="Cars in Use with Power Sources in Finland from 1995 to 2022",
+           y_axis_label="Cars in Use",
            tools=TOOLS,
            tooltips=TOOLTIPS,
-           toolbar_location="below")
+           toolbar_location="below",
+           x_axis_type="linear"
+           )
+p.left[0].formatter.use_scientific = False
 
-# add a line renderer with legend and line thickness to the plot
+overall_line = p.line('y', 'o', source=source, line_color=LineColors.AMMONITE, legend_label="Overall", line_width=2)
+electric_line = p.line('y', 'e', source=source, line_color=LineColors.BLUE, legend_label="Electric", line_width=2)
+gasoline_line = p.line('y', 'ga', source=source, line_color=LineColors.ORANGE, legend_label="Gasoline", line_width=2)
+diesel_line = p.line('y', 'd', source=source, line_color=LineColors.PURPLE, legend_label="Diesel", line_width=2)
+gas_line = p.line('y', 'g', source=source, line_color=LineColors.GREEN, legend_label="Gas (Biofuel)", line_width=2)
+hydrogen_line = p.line('y', 'h', source=source, line_color=LineColors.YELLOW, legend_label="Hydrogen", line_width=2)
 
-# p.multi_line('y', 'o', 'e', source=source, legend_label="Power Source", line_width=2)
-p.line('x', 'y', source=source, legend_label="Electric", line_width=2)
+checkbox_group = CheckboxGroup(labels=LABELS, active=[0, 1, 2, 3, 4, 5])
+checkbox_group.js_on_change(
+    'active', CustomJS(args=dict(
+     overall_line=overall_line,
+     electric_line=electric_line,
+     gasoline_line=gasoline_line,
+     diesel_line=diesel_line,
+     gas_line=gas_line,
+     hydrogen_line=hydrogen_line,
+     checkbox_group = checkbox_group),
+     code="""
+     overall_line.visible = checkbox_group.active.includes(0);
+     electric_line.visible = checkbox_group.active.includes(1);
+     gasoline_line.visible = checkbox_group.active.includes(2);
+     diesel_line.visible = checkbox_group.active.includes(4);
+     gas_line.visible = checkbox_group.active.includes(3);
+     hydrogen_line.visible = checkbox_group.active.includes(5);
+     """))
 
-callback = CustomJS(args=dict(source=source, years=years, areas=areas, newData=data), code="""
-  console.log('areas', areas)
-  console.log('areas', areas)
-  
+callback = CustomJS(args=dict(source=source,
+                              years=years,
+                              areas=areas,
+                              newData=data,
+                              ), code="""
   const oldArr = source;
   const area = cb_obj.value;
   
   const getPowerSource = (arr, areaName, query) => {
     const newArr = Object.entries(arr[areaName]);
-    const filtered = newArr.filter((item) => item[0].toLocaleLowerCase().includes(query.toLocaleLowerCase()));
+    const filtered = newArr.filter((item) => item[0].split(" ")[1] === query);
     return filtered.reverse();
   };
-    const x = years;
-    console.log('x', x,)
-    const y = getPowerSource(newData, area, "Electric").map(item => item[1]);
+    const y = years;
+    const o = getPowerSource(newData, area, "Overall").map(item => item[1]);
+    const e = getPowerSource(newData, area, "Electric").map(item => item[1]);
+    const ga = getPowerSource(newData, area, "Gasoline").map(item => item[1]);
+    const d = getPowerSource(newData, area, "Diesel").map(item => item[1]);
+    const g = getPowerSource(newData, area, "Gas").map(item => item[1]);
+    const h = getPowerSource(newData, area, "Hydrogen").map(item => item[1]);
 
-    console.log('y', y)
-    source.data = { x, y }
-    console.log('source.data', source.data);
+    console.log('fgas', h)
+
+    source.data = {y, o, e, ga, d, g, h, }
 """)
-
-# custom_filter = CustomJSFilter(code='''
-# const indices = [];
-
-# // iterate through rows of data source and see if each satisfies some constraint
-# for (let i = 0; i < source.get_length(); i++){
-#     if (source.data['some_column'][i] == 'some_value'){
-#         indices.push(true);
-#     } else {
-#         indices.push(false);
-#     }
-# }
-# return indices;
-# ''')
-
-# auto_complete_input.js_on_change("value", CustomJS(code="""
-#     console.log('value', cb_obj.value);
-#     """))
 
 auto_complete_input.js_on_change('value', callback)
 
-
-# callback = CustomJS(args=dict(source=data), code="""
-#     const inputValue = cb_obj.value
-#     const x = source.data.x
-#     const y = Array.from(x, (x) => Math.pow(x, f))
-#     source.data = { x, y }
-# """)
-
-#Close the data file
-f.close()
-
-# create layout
 layout = row(column(auto_complete_input, p), checkbox_group)
-
-
-# show the results
 show(layout)
 
 
