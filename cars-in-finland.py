@@ -106,6 +106,8 @@ diesel_line = p.line('y', 'd', source=source, line_color=LineColors.PURPLE, lege
 gas_line = p.line('y', 'g', source=source, line_color=LineColors.GREEN, legend_label="Gas (Biofuel)", line_width=2)
 hydrogen_line = p.line('y', 'h', source=source, line_color=LineColors.YELLOW, legend_label="Hydrogen", line_width=2)
 
+p.legend.location = "top_left"
+
 checkbox_group = CheckboxGroup(labels=LABELS, active=[0, 1, 2, 3, 4, 5])
 checkbox_group.js_on_change(
     'active', CustomJS(args=dict(
