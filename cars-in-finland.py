@@ -21,7 +21,7 @@ class LineColors(str, Enum):
     AMMONITE = "#ddd8cf",
 
 
-DEFAULT_AREA = "MA1 MANNER0SUOMI"
+DEFAULT_AREA = "Finland"
 
 TOOLTIPS = [
     ("index", "$index"),
