@@ -92,19 +92,18 @@ This project utilizes publicly available data from Traficom (Finnish Transport a
 * Zooming in/out
 * Dragging graph around
 
+<br/>
 
+<p><img src="images/cars-used-in-finland-1995-2022.PNG" alt="Graph"></p>
 
-<p><img src="images/cars-used-in-finland-1995-2022.PNG" alt="Logo"></p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<br/>
 
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Python](https://www.python.org/)
+* [Python 3](https://www.python.org/)
 * [Traficom dataset](https://trafi2.stat.fi/PXWeb/pxweb/en/TraFi/TraFi__Liikennekaytossa_olevat_ajoneuvot/010_kanta_tau_101.px/)
 
 
@@ -116,34 +115,34 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To set up this visualization locally, follow these steps.
+
+<br />
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+This project requires the installation of Python 3, along with the Bokeh package. If not already installed, download and install Python 3 and Bokeh.
+
+* [Python 3](https://www.python.org/downloads/windows/)
+* [Bokeh](https://docs.bokeh.org/en/latest/docs/first_steps/installation.html)
+  
+<br />
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/jerkkov/cars-used-in-finland-1995-2022
    ```
-3. Install NPM packages
+2. Navivate to local directory location
    ```sh
-   npm install
+   cd C:~\cars-used-in-finland-1995-2022
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Run the following command
    ```
+   python cars-in-finland.py
+   ```
+Running the program creates an HTML file of the visualization in the local repository, which may be freely viewed again.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -152,9 +151,39 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+If unsure where to start, check out the following usage demonstrations.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<br/>
+
+<!--Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
+
+### Power Source Selection
+
+All power source types are selected by default. Compare specific power types of interest by modifying the checkboxes in the upper right-hand corner of the visualization.
+
+<p><img src="images/check-box.PNG" alt="Check"></p>
+
+
+<br/>
+
+
+### Area Selection
+
+The visualization shows data from the whole country of Finland by default. To view data from different areas of the country, select the text box in the upper left-hand corner, and type in a city name.
+<p><img src="images/text-box.PNG" alt="Text"></p>
+
+The graph then pulls according data about car power types from that city. Use this function to compare the trends from different areas across Finland.
+
+<p><img src="images/city.PNG" alt="City"></p>
+
+<br/>
+
+
+<!--### Zooming-->
+
+
+<br/>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
