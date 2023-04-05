@@ -138,7 +138,7 @@ callback = CustomJS(args=dict(source=source,
   const getPowerSource = (arr, areaName, query) => {
     const newArr = Object.entries(arr[areaName]);
     const filtered = newArr.filter((item) => item[0].split(" ")[1] === query);
-    return filtered.reverse();
+    return filtered;
   };
     const y = years;
     const o = getPowerSource(newData, area, "Overall").map(item => item[1]);
@@ -147,8 +147,6 @@ callback = CustomJS(args=dict(source=source,
     const d = getPowerSource(newData, area, "Diesel").map(item => item[1]);
     const g = getPowerSource(newData, area, "Gas").map(item => item[1]);
     const h = getPowerSource(newData, area, "Hydrogen").map(item => item[1]);
-
-    console.log('fgas', h)
 
     source.data = {y, o, e, ga, d, g, h, }
 """)
