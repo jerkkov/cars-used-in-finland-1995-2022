@@ -136,7 +136,7 @@ This project requires the installation of Python 3, along with the Bokeh package
    ```
 2. Navivate to local directory location
    ```sh
-   cd C:~\cars-used-in-finland-1995-2022
+   cd C:~/cars-used-in-finland-1995-2022
    ```
 3. Run the following command in the command line
    ```
