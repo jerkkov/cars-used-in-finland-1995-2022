@@ -94,7 +94,7 @@ This project utilizes publicly available data from Traficom (Finnish Transport a
 
 <br/>
 
-<p><img src="images/cars-used-in-finland-1995-2022.PNG" alt="Graph"></p>
+<img src="images/cars-used-in-finland-1995-2022.PNG" alt="Graph">
 
 <br/>
 
@@ -138,7 +138,7 @@ This project requires the installation of Python 3, along with the Bokeh package
    ```sh
    cd C:~\cars-used-in-finland-1995-2022
    ```
-3. Run the following command
+3. Run the following command in the command line
    ```
    python cars-in-finland.py
    ```
@@ -161,7 +161,7 @@ If unsure where to start, check out the following usage demonstrations.
 
 All power source types are selected by default. Compare specific power types of interest by modifying the checkboxes in the upper right-hand corner of the visualization.
 
-<p><img src="images/check-box.PNG" alt="Check"></p>
+<img src="images/check-box.PNG" alt="Check">
 
 
 <br/>
@@ -170,11 +170,12 @@ All power source types are selected by default. Compare specific power types of 
 ### Area Selection
 
 The visualization shows data from the whole country of Finland by default. To view data from different areas of the country, select the text box in the upper left-hand corner, and type in a city name.
-<p><img src="images/text-box.PNG" alt="Text"></p>
+<img src="images/text-box.PNG" alt="Text">
 
 The graph then pulls according data about car power types from that city. Use this function to compare the trends from different areas across Finland.
 
-<p><img src="images/city.PNG" alt="City"></p>
+<!--Requires new image after graph reversal bug fix-->
+<!--<img src="images/city.PNG" alt="City">-->
 
 <br/>
 
